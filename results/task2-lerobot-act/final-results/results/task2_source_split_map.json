@@ -1,0 +1,52 @@
+{
+  "updated_at": "2026-06-04T15:58:15.526804+08:00",
+  "dataset_root": "/home/zyx2001/.cache/huggingface/lerobot/fywang/calvin-task-ABC-D-lerobot",
+  "split_mode": "episode_order_thirds",
+  "proxy_source_split": true,
+  "rows": [
+    {
+      "split_label": "A",
+      "split_mode": "episode_order_thirds",
+      "proxy_source_split": true,
+      "episode_start": 0,
+      "episode_end": 6318,
+      "num_episodes": 6319,
+      "num_frames": 379231,
+      "unique_tasks": 389,
+      "note": "episode-order third of the public ABC LeRobot dataset; used because raw A/B/C labels are not exposed in this converted dataset"
+    },
+    {
+      "split_label": "B",
+      "split_mode": "episode_order_thirds",
+      "proxy_source_split": true,
+      "episode_start": 6319,
+      "episode_end": 12637,
+      "num_episodes": 6319,
+      "num_frames": 377837,
+      "unique_tasks": 389,
+      "note": "episode-order third of the public ABC LeRobot dataset; used because raw A/B/C labels are not exposed in this converted dataset"
+    },
+    {
+      "split_label": "C",
+      "split_mode": "episode_order_thirds",
+      "proxy_source_split": true,
+      "episode_start": 12638,
+      "episode_end": 18956,
+      "num_episodes": 6319,
+      "num_frames": 379468,
+      "unique_tasks": 389,
+      "note": "episode-order third of the public ABC LeRobot dataset; used because raw A/B/C labels are not exposed in this converted dataset"
+    },
+    {
+      "split_label": "ABC",
+      "split_mode": "episode_order_thirds",
+      "proxy_source_split": true,
+      "episode_start": 0,
+      "episode_end": 18956,
+      "num_episodes": 18957,
+      "num_frames": 1136536,
+      "unique_tasks": 389,
+      "note": "episode-order third of the public ABC LeRobot dataset; used because raw A/B/C labels are not exposed in this converted dataset"
+    }
+  ]
+}

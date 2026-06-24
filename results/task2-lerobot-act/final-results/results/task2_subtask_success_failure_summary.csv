@@ -1,0 +1,17 @@
+subtask,attempts,successes,mean_steps,success_rate,group
+close_drawer,71,68,96.22535211267606,0.9577464788732394,highest_success
+place_in_drawer,23,22,55.91304347826087,0.9565217391304348,highest_success
+move_slider_left,101,95,100.42574257425743,0.9405940594059405,highest_success
+open_drawer,179,165,75.6927374301676,0.9217877094972067,highest_success
+place_in_slider,58,46,96.41379310344827,0.7931034482758621,highest_success
+push_red_block_right,50,39,211.58,0.78,highest_success
+push_blue_block_right,39,30,166.94871794871796,0.7692307692307693,highest_success
+push_pink_block_right,41,30,186.9268292682927,0.7317073170731707,highest_success
+rotate_blue_block_right,45,1,356.3777777777778,0.022222222222222223,lowest_success
+lift_red_block_slider,62,6,337.4032258064516,0.0967741935483871,lowest_success
+stack_block,20,2,329.6,0.1,lowest_success
+rotate_red_block_right,47,6,338.0425531914894,0.1276595744680851,lowest_success
+push_blue_block_left,44,6,327.1818181818182,0.13636363636363635,lowest_success
+rotate_red_block_left,40,6,319.5,0.15,lowest_success
+lift_blue_block_slider,58,9,326.44827586206895,0.15517241379310345,lowest_success
+rotate_blue_block_left,41,7,312.0487804878049,0.17073170731707318,lowest_success

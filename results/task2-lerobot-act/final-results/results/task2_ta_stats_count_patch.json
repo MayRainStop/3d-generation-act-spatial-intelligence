@@ -1,0 +1,29 @@
+{
+  "root": "data/xiaoma_calvin_lerobot",
+  "splits": [
+    {
+      "split_dir": "data/xiaoma_calvin_lerobot/splitA",
+      "episodes": 6089,
+      "features_seen": 12178,
+      "count_fields_set": 12178
+    },
+    {
+      "split_dir": "data/xiaoma_calvin_lerobot/splitB",
+      "episodes": 6115,
+      "features_seen": 12230,
+      "count_fields_set": 12230
+    },
+    {
+      "split_dir": "data/xiaoma_calvin_lerobot/splitC",
+      "episodes": 5666,
+      "features_seen": 11332,
+      "count_fields_set": 11332
+    },
+    {
+      "split_dir": "data/xiaoma_calvin_lerobot/splitD",
+      "episodes": 5124,
+      "features_seen": 10248,
+      "count_fields_set": 10248
+    }
+  ]
+}

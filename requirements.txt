@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+Pillow
+imageio
+imageio-ffmpeg
+requests
+huggingface_hub
+tensorboard

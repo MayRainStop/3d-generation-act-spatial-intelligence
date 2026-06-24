@@ -1,0 +1,3112 @@
+{
+  "huiwon_tasks": 388,
+  "output": "results/huiwon_tasks.parquet",
+  "min_match_score": 1.0,
+  "num_exact_matches": 388,
+  "audit": [
+    {
+      "task_index": 0,
+      "huiwon_task": "pick up the red block lying in the drawer",
+      "subtask": "lift_red_block_drawer",
+      "reference_full_task": "lift_red_block_drawer: pick up the red block lying in the drawer",
+      "reference_task_index": 0,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 1,
+      "huiwon_task": "turn on the yellow lamp",
+      "subtask": "turn_on_lightbulb",
+      "reference_full_task": "turn_on_lightbulb: turn on the yellow lamp",
+      "reference_task_index": 4,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 2,
+      "huiwon_task": "grasp the pink block and turn it right",
+      "subtask": "rotate_pink_block_right",
+      "reference_full_task": "rotate_pink_block_right: grasp the pink block and turn it right",
+      "reference_task_index": 8,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 3,
+      "huiwon_task": "toggle the button to turn on the led",
+      "subtask": "turn_on_led",
+      "reference_full_task": "turn_on_led: toggle the button to turn on the led",
+      "reference_task_index": 12,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 4,
+      "huiwon_task": "grasp the drawer handle, then open it",
+      "subtask": "open_drawer",
+      "reference_full_task": "open_drawer: grasp the drawer handle, then open it",
+      "reference_task_index": 16,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 5,
+      "huiwon_task": "lift the pink block lying in the drawer",
+      "subtask": "lift_pink_block_drawer",
+      "reference_full_task": "lift_pink_block_drawer: lift the pink block lying in the drawer",
+      "reference_task_index": 20,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 6,
+      "huiwon_task": "lift the red block",
+      "subtask": "lift_red_block_table",
+      "reference_full_task": "lift_red_block_table: lift the red block",
+      "reference_task_index": 24,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 7,
+      "huiwon_task": "lift the red block from the table",
+      "subtask": "lift_red_block_table",
+      "reference_full_task": "lift_red_block_table: lift the red block from the table",
+      "reference_task_index": 28,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 8,
+      "huiwon_task": "grasp the blue block and lift it up",
+      "subtask": "lift_blue_block_table",
+      "reference_full_task": "lift_blue_block_table: grasp the blue block and lift it up",
+      "reference_task_index": 32,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 9,
+      "huiwon_task": "grasp the door handle, then move the door to the left",
+      "subtask": "move_slider_left",
+      "reference_full_task": "move_slider_left: grasp the door handle, then move the door to the left",
+      "reference_task_index": 36,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 10,
+      "huiwon_task": "pull the handle of the drawer",
+      "subtask": "open_drawer",
+      "reference_full_task": "open_drawer: pull the handle of the drawer",
+      "reference_task_index": 40,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 11,
+      "huiwon_task": "slide down the switch",
+      "subtask": "turn_off_lightbulb",
+      "reference_full_task": "turn_off_lightbulb: slide down the switch",
+      "reference_task_index": 43,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 12,
+      "huiwon_task": "go towards the blue block in the drawer and lift it",
+      "subtask": "lift_blue_block_drawer",
+      "reference_full_task": "lift_blue_block_drawer: go towards the blue block in the drawer and lift it",
+      "reference_task_index": 47,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 13,
+      "huiwon_task": "put the block in the slider",
+      "subtask": "place_in_slider",
+      "reference_full_task": "place_in_slider: put the block in the slider",
+      "reference_task_index": 14,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 14,
+      "huiwon_task": "place the block on top of another block",
+      "subtask": "stack_block",
+      "reference_full_task": "stack_block: place the block on top of another block",
+      "reference_task_index": 54,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 15,
+      "huiwon_task": "turn on the led light",
+      "subtask": "turn_on_led",
+      "reference_full_task": "turn_on_led: turn on the led light",
+      "reference_task_index": 58,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 16,
+      "huiwon_task": "unstack the blocks",
+      "subtask": "unstack_block",
+      "reference_full_task": "unstack_block: unstack the blocks",
+      "reference_task_index": 62,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 17,
+      "huiwon_task": "go towards the red block in the drawer and grasp it",
+      "subtask": "lift_red_block_drawer",
+      "reference_full_task": "lift_red_block_drawer: go towards the red block in the drawer and grasp it",
+      "reference_task_index": 65,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 18,
+      "huiwon_task": "grasp the door handle, then slide the door to the left",
+      "subtask": "move_slider_left",
+      "reference_full_task": "move_slider_left: grasp the door handle, then slide the door to the left",
+      "reference_task_index": 66,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 19,
+      "huiwon_task": "in the cabinet grasp the pink block",
+      "subtask": "lift_pink_block_slider",
+      "reference_full_task": "lift_pink_block_slider: in the cabinet grasp the pink block",
+      "reference_task_index": 72,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 20,
+      "huiwon_task": "place the block in the sliding cabinet",
+      "subtask": "place_in_slider",
+      "reference_full_task": "place_in_slider: place the block in the sliding cabinet",
+      "reference_task_index": 31,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 21,
+      "huiwon_task": "move the door all the way to the left",
+      "subtask": "move_slider_left",
+      "reference_full_task": "move_slider_left: move the door all the way to the left",
+      "reference_task_index": 79,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 22,
+      "huiwon_task": "turn off the yellow light",
+      "subtask": "turn_off_lightbulb",
+      "reference_full_task": "turn_off_lightbulb: turn off the yellow light",
+      "reference_task_index": 63,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 23,
+      "huiwon_task": "place the object in the sliding cabinet",
+      "subtask": "place_in_slider",
+      "reference_full_task": "place_in_slider: place the object in the sliding cabinet",
+      "reference_task_index": 86,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 24,
+      "huiwon_task": "grasp the pink block, then rotate it right",
+      "subtask": "rotate_pink_block_right",
+      "reference_full_task": "rotate_pink_block_right: grasp the pink block, then rotate it right",
+      "reference_task_index": 89,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 25,
+      "huiwon_task": "place the object in the slider",
+      "subtask": "place_in_slider",
+      "reference_full_task": "place_in_slider: place the object in the slider",
+      "reference_task_index": 97,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 26,
+      "huiwon_task": "lift the blue block in the drawer",
+      "subtask": "lift_blue_block_drawer",
+      "reference_full_task": "lift_blue_block_drawer: lift the blue block in the drawer",
+      "reference_task_index": 101,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 27,
+      "huiwon_task": "slide the block into the drawer",
+      "subtask": "push_into_drawer",
+      "reference_full_task": "push_into_drawer: slide the block into the drawer",
+      "reference_task_index": 104,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 28,
+      "huiwon_task": "place the grasped object in the drawer",
+      "subtask": "place_in_drawer",
+      "reference_full_task": "place_in_drawer: place the grasped object in the drawer",
+      "reference_task_index": 5,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 29,
+      "huiwon_task": "grasp the handle of the drawer, then open it",
+      "subtask": "open_drawer",
+      "reference_full_task": "open_drawer: grasp the handle of the drawer, then open it",
+      "reference_task_index": 109,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 30,
+      "huiwon_task": "go close the drawer",
+      "subtask": "close_drawer",
+      "reference_full_task": "close_drawer: go close the drawer",
+      "reference_task_index": 111,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 31,
+      "huiwon_task": "remove the top block",
+      "subtask": "unstack_block",
+      "reference_full_task": "unstack_block: remove the top block",
+      "reference_task_index": 23,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 32,
+      "huiwon_task": "turn on the led",
+      "subtask": "turn_on_led",
+      "reference_full_task": "turn_on_led: turn on the led",
+      "reference_task_index": 115,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 33,
+      "huiwon_task": "grasp the red block, then lift it up",
+      "subtask": "lift_red_block_table",
+      "reference_full_task": "lift_red_block_table: grasp the red block, then lift it up",
+      "reference_task_index": 124,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 34,
+      "huiwon_task": "lift the pink block in the drawer",
+      "subtask": "lift_pink_block_drawer",
+      "reference_full_task": "lift_pink_block_drawer: lift the pink block in the drawer",
+      "reference_task_index": 125,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 35,
+      "huiwon_task": "put the block on top of another block",
+      "subtask": "stack_block",
+      "reference_full_task": "stack_block: put the block on top of another block",
+      "reference_task_index": 100,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 36,
+      "huiwon_task": "lift the blue block lying in the sliding cabinet",
+      "subtask": "lift_blue_block_slider",
+      "reference_full_task": "lift_blue_block_slider: lift the blue block lying in the sliding cabinet",
+      "reference_task_index": 131,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 37,
+      "huiwon_task": "pick up the red block from the drawer",
+      "subtask": "lift_red_block_drawer",
+      "reference_full_task": "lift_red_block_drawer: pick up the red block from the drawer",
+      "reference_task_index": 132,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 38,
+      "huiwon_task": "lift the red block lying in the drawer",
+      "subtask": "lift_red_block_drawer",
+      "reference_full_task": "lift_red_block_drawer: lift the red block lying in the drawer",
+      "reference_task_index": 26,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 39,
+      "huiwon_task": "grasp the pink block, then lift it up",
+      "subtask": "lift_pink_block_table",
+      "reference_full_task": "lift_pink_block_table: grasp the pink block, then lift it up",
+      "reference_task_index": 138,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 40,
+      "huiwon_task": "pick up the red block on the table",
+      "subtask": "lift_red_block_table",
+      "reference_full_task": "lift_red_block_table: pick up the red block on the table",
+      "reference_task_index": 142,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 41,
+      "huiwon_task": "stack blocks on top of each other",
+      "subtask": "stack_block",
+      "reference_full_task": "stack_block: stack blocks on top of each other",
+      "reference_task_index": 122,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 42,
+      "huiwon_task": "grasp the red block, then rotate it right",
+      "subtask": "rotate_red_block_right",
+      "reference_full_task": "rotate_red_block_right: grasp the red block, then rotate it right",
+      "reference_task_index": 108,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 43,
+      "huiwon_task": "put the object in the slider",
+      "subtask": "place_in_slider",
+      "reference_full_task": "place_in_slider: put the object in the slider",
+      "reference_task_index": 149,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 44,
+      "huiwon_task": "slide the door to the right",
+      "subtask": "move_slider_right",
+      "reference_full_task": "move_slider_right: slide the door to the right",
+      "reference_task_index": 55,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 45,
+      "huiwon_task": "grasp the door handle and move the door to the left",
+      "subtask": "move_slider_left",
+      "reference_full_task": "move_slider_left: grasp the door handle and move the door to the left",
+      "reference_task_index": 73,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 46,
+      "huiwon_task": "place the grasped block on top of another block",
+      "subtask": "stack_block",
+      "reference_full_task": "stack_block: place the grasped block on top of another block",
+      "reference_task_index": 154,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 47,
+      "huiwon_task": "close the drawer",
+      "subtask": "close_drawer",
+      "reference_full_task": "close_drawer: close the drawer",
+      "reference_task_index": 61,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 48,
+      "huiwon_task": "push the red block towards the left",
+      "subtask": "push_red_block_left",
+      "reference_full_task": "push_red_block_left: push the red block towards the left",
+      "reference_task_index": 158,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 49,
+      "huiwon_task": "store the block in the drawer",
+      "subtask": "place_in_drawer",
+      "reference_full_task": "place_in_drawer: store the block in the drawer",
+      "reference_task_index": 159,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 50,
+      "huiwon_task": "grasp the pink block and lift it up",
+      "subtask": "lift_pink_block_table",
+      "reference_full_task": "lift_pink_block_table: grasp the pink block and lift it up",
+      "reference_task_index": 161,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 51,
+      "huiwon_task": "grasp the pink block on the table and lift it up",
+      "subtask": "lift_pink_block_table",
+      "reference_full_task": "lift_pink_block_table: grasp the pink block on the table and lift it up",
+      "reference_task_index": 118,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 52,
+      "huiwon_task": "push the drawer",
+      "subtask": "close_drawer",
+      "reference_full_task": "close_drawer: push the drawer",
+      "reference_task_index": 144,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 53,
+      "huiwon_task": "stack the block on top of another block",
+      "subtask": "stack_block",
+      "reference_full_task": "stack_block: stack the block on top of another block",
+      "reference_task_index": 166,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 54,
+      "huiwon_task": "lift the red block lying in the cabinet",
+      "subtask": "lift_red_block_slider",
+      "reference_full_task": "lift_red_block_slider: lift the red block lying in the cabinet",
+      "reference_task_index": 106,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 55,
+      "huiwon_task": "pull the drawer",
+      "subtask": "open_drawer",
+      "reference_full_task": "open_drawer: pull the drawer",
+      "reference_task_index": 164,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 56,
+      "huiwon_task": "grasp the blue block lying in the cabinet",
+      "subtask": "lift_blue_block_slider",
+      "reference_full_task": "lift_blue_block_slider: grasp the blue block lying in the cabinet",
+      "reference_task_index": 37,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 57,
+      "huiwon_task": "toggle the light switch to turn on the light bulb",
+      "subtask": "turn_on_lightbulb",
+      "reference_full_task": "turn_on_lightbulb: toggle the light switch to turn on the light bulb",
+      "reference_task_index": 181,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 58,
+      "huiwon_task": "turn on the yellow light",
+      "subtask": "turn_on_lightbulb",
+      "reference_full_task": "turn_on_lightbulb: turn on the yellow light",
+      "reference_task_index": 184,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 59,
+      "huiwon_task": "open the cabinet drawer",
+      "subtask": "open_drawer",
+      "reference_full_task": "open_drawer: open the cabinet drawer",
+      "reference_task_index": 102,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 60,
+      "huiwon_task": "lift the blue block from the table",
+      "subtask": "lift_blue_block_table",
+      "reference_full_task": "lift_blue_block_table: lift the blue block from the table",
+      "reference_task_index": 167,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 61,
+      "huiwon_task": "grasp the blue block from the drawer",
+      "subtask": "lift_blue_block_drawer",
+      "reference_full_task": "lift_blue_block_drawer: grasp the blue block from the drawer",
+      "reference_task_index": 193,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 62,
+      "huiwon_task": "go towards the pink block in the drawer and grasp it",
+      "subtask": "lift_pink_block_drawer",
+      "reference_full_task": "lift_pink_block_drawer: go towards the pink block in the drawer and grasp it",
+      "reference_task_index": 188,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 63,
+      "huiwon_task": "push the sliding door to the right",
+      "subtask": "move_slider_right",
+      "reference_full_task": "move_slider_right: push the sliding door to the right",
+      "reference_task_index": 195,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 64,
+      "huiwon_task": "grasp the red block and lift it up",
+      "subtask": "lift_red_block_table",
+      "reference_full_task": "lift_red_block_table: grasp the red block and lift it up",
+      "reference_task_index": 198,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 65,
+      "huiwon_task": "go towards the drawer and place the object",
+      "subtask": "place_in_drawer",
+      "reference_full_task": "place_in_drawer: go towards the drawer and place the object",
+      "reference_task_index": 117,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 66,
+      "huiwon_task": "grasp the handle of the drawer and open it",
+      "subtask": "open_drawer",
+      "reference_full_task": "open_drawer: grasp the handle of the drawer and open it",
+      "reference_task_index": 140,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 67,
+      "huiwon_task": "move the door to the right",
+      "subtask": "move_slider_right",
+      "reference_full_task": "move_slider_right: move the door to the right",
+      "reference_task_index": 150,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 68,
+      "huiwon_task": "in the cabinet grasp the red block",
+      "subtask": "lift_red_block_slider",
+      "reference_full_task": "lift_red_block_slider: in the cabinet grasp the red block",
+      "reference_task_index": 205,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 69,
+      "huiwon_task": "move the light switch to turn on the yellow light",
+      "subtask": "turn_on_lightbulb",
+      "reference_full_task": "turn_on_lightbulb: move the light switch to turn on the yellow light",
+      "reference_task_index": 53,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 70,
+      "huiwon_task": "push the switch upwards",
+      "subtask": "turn_on_lightbulb",
+      "reference_full_task": "turn_on_lightbulb: push the switch upwards",
+      "reference_task_index": 208,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 71,
+      "huiwon_task": "take the blue block and turn it right",
+      "subtask": "rotate_blue_block_right",
+      "reference_full_task": "rotate_blue_block_right: take the blue block and turn it right",
+      "reference_task_index": 210,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 72,
+      "huiwon_task": "pick up the red block in the drawer",
+      "subtask": "lift_red_block_drawer",
+      "reference_full_task": "lift_red_block_drawer: pick up the red block in the drawer",
+      "reference_task_index": 212,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 73,
+      "huiwon_task": "push right the blue block",
+      "subtask": "push_blue_block_right",
+      "reference_full_task": "push_blue_block_right: push right the blue block",
+      "reference_task_index": 215,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 74,
+      "huiwon_task": "push down the button to turn off the green light",
+      "subtask": "turn_off_led",
+      "reference_full_task": "turn_off_led: push down the button to turn off the green light",
+      "reference_task_index": 17,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 75,
+      "huiwon_task": "sweep the blue block to the right",
+      "subtask": "push_blue_block_right",
+      "reference_full_task": "push_blue_block_right: sweep the blue block to the right",
+      "reference_task_index": 219,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 76,
+      "huiwon_task": "slide the blue block to the right",
+      "subtask": "push_blue_block_right",
+      "reference_full_task": "push_blue_block_right: slide the blue block to the right",
+      "reference_task_index": 223,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 77,
+      "huiwon_task": "push the door to the right",
+      "subtask": "move_slider_right",
+      "reference_full_task": "move_slider_right: push the door to the right",
+      "reference_task_index": 87,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 78,
+      "huiwon_task": "move to the drawer and place the object",
+      "subtask": "place_in_drawer",
+      "reference_full_task": "place_in_drawer: move to the drawer and place the object",
+      "reference_task_index": 227,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 79,
+      "huiwon_task": "toggle the light switch to turn off the yellow light",
+      "subtask": "turn_off_lightbulb",
+      "reference_full_task": "turn_off_lightbulb: toggle the light switch to turn off the yellow light",
+      "reference_task_index": 129,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 80,
+      "huiwon_task": "pick up the pink block on the table",
+      "subtask": "lift_pink_block_table",
+      "reference_full_task": "lift_pink_block_table: pick up the pink block on the table",
+      "reference_task_index": 229,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 81,
+      "huiwon_task": "slide left the blue block",
+      "subtask": "push_blue_block_left",
+      "reference_full_task": "push_blue_block_left: slide left the blue block",
+      "reference_task_index": 76,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 82,
+      "huiwon_task": "slide the pink block towards the left",
+      "subtask": "push_pink_block_left",
+      "reference_full_task": "push_pink_block_left: slide the pink block towards the left",
+      "reference_task_index": 231,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 83,
+      "huiwon_task": "grasp the drawer handle and open it",
+      "subtask": "open_drawer",
+      "reference_full_task": "open_drawer: grasp the drawer handle and open it",
+      "reference_task_index": 51,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 84,
+      "huiwon_task": "slide the blue block to the left",
+      "subtask": "push_blue_block_left",
+      "reference_full_task": "push_blue_block_left: slide the blue block to the left",
+      "reference_task_index": 233,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 85,
+      "huiwon_task": "pick up the red block from the table",
+      "subtask": "lift_red_block_table",
+      "reference_full_task": "lift_red_block_table: pick up the red block from the table",
+      "reference_task_index": 190,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 86,
+      "huiwon_task": "push the sliding door to the left",
+      "subtask": "move_slider_left",
+      "reference_full_task": "move_slider_left: push the sliding door to the left",
+      "reference_task_index": 232,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 87,
+      "huiwon_task": "grasp the red block lying in the slider",
+      "subtask": "lift_red_block_slider",
+      "reference_full_task": "lift_red_block_slider: grasp the red block lying in the slider",
+      "reference_task_index": 238,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 88,
+      "huiwon_task": "turn off the yellow lamp",
+      "subtask": "turn_off_lightbulb",
+      "reference_full_task": "turn_off_lightbulb: turn off the yellow lamp",
+      "reference_task_index": 83,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 89,
+      "huiwon_task": "grasp the blue block lying in the sliding cabinet",
+      "subtask": "lift_blue_block_slider",
+      "reference_full_task": "lift_blue_block_slider: grasp the blue block lying in the sliding cabinet",
+      "reference_task_index": 242,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 90,
+      "huiwon_task": "store the grasped object in the drawer",
+      "subtask": "place_in_drawer",
+      "reference_full_task": "place_in_drawer: store the grasped object in the drawer",
+      "reference_task_index": 90,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 91,
+      "huiwon_task": "move to the drawer, then place the object",
+      "subtask": "place_in_drawer",
+      "reference_full_task": "place_in_drawer: move to the drawer, then place the object",
+      "reference_task_index": 49,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 92,
+      "huiwon_task": "slide the door all the way to the right",
+      "subtask": "move_slider_right",
+      "reference_full_task": "move_slider_right: slide the door all the way to the right",
+      "reference_task_index": 68,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 93,
+      "huiwon_task": "grasp the door handle and slide the door to the left",
+      "subtask": "move_slider_left",
+      "reference_full_task": "move_slider_left: grasp the door handle and slide the door to the left",
+      "reference_task_index": 248,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 94,
+      "huiwon_task": "pick up the pink block from the drawer",
+      "subtask": "lift_pink_block_drawer",
+      "reference_full_task": "lift_pink_block_drawer: pick up the pink block from the drawer",
+      "reference_task_index": 105,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 95,
+      "huiwon_task": "push down the button to turn on the led",
+      "subtask": "turn_on_led",
+      "reference_full_task": "turn_on_led: push down the button to turn on the led",
+      "reference_task_index": 216,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 96,
+      "huiwon_task": "pick up the pink block in the drawer",
+      "subtask": "lift_pink_block_drawer",
+      "reference_full_task": "lift_pink_block_drawer: pick up the pink block in the drawer",
+      "reference_task_index": 217,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 97,
+      "huiwon_task": "grasp the drawer handle, then close it",
+      "subtask": "close_drawer",
+      "reference_full_task": "close_drawer: grasp the drawer handle, then close it",
+      "reference_task_index": 82,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 98,
+      "huiwon_task": "go push the blue block to the right",
+      "subtask": "push_blue_block_right",
+      "reference_full_task": "push_blue_block_right: go push the blue block to the right",
+      "reference_task_index": 254,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 99,
+      "huiwon_task": "grasp the blue block, then rotate it right",
+      "subtask": "rotate_blue_block_right",
+      "reference_full_task": "rotate_blue_block_right: grasp the blue block, then rotate it right",
+      "reference_task_index": 258,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 100,
+      "huiwon_task": "lift the pink block on the shelf",
+      "subtask": "lift_pink_block_slider",
+      "reference_full_task": "lift_pink_block_slider: lift the pink block on the shelf",
+      "reference_task_index": 259,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 101,
+      "huiwon_task": "in the slider pick up the red block",
+      "subtask": "lift_red_block_slider",
+      "reference_full_task": "lift_red_block_slider: in the slider pick up the red block",
+      "reference_task_index": 260,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 102,
+      "huiwon_task": "in the slider pick up the blue block",
+      "subtask": "lift_blue_block_slider",
+      "reference_full_task": "lift_blue_block_slider: in the slider pick up the blue block",
+      "reference_task_index": 98,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 103,
+      "huiwon_task": "turn on the green light",
+      "subtask": "turn_on_led",
+      "reference_full_task": "turn_on_led: turn on the green light",
+      "reference_task_index": 263,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 104,
+      "huiwon_task": "grasp the red block lying in the cabinet",
+      "subtask": "lift_red_block_slider",
+      "reference_full_task": "lift_red_block_slider: grasp the red block lying in the cabinet",
+      "reference_task_index": 265,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 105,
+      "huiwon_task": "move to the drawer, then store the object",
+      "subtask": "place_in_drawer",
+      "reference_full_task": "place_in_drawer: move to the drawer, then store the object",
+      "reference_task_index": 230,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 106,
+      "huiwon_task": "put the grasped object in the slider",
+      "subtask": "place_in_slider",
+      "reference_full_task": "place_in_slider: put the grasped object in the slider",
+      "reference_task_index": 267,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 107,
+      "huiwon_task": "push the button to turn on the led",
+      "subtask": "turn_on_led",
+      "reference_full_task": "turn_on_led: push the button to turn on the led",
+      "reference_task_index": 153,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 108,
+      "huiwon_task": "close the cabinet drawer",
+      "subtask": "close_drawer",
+      "reference_full_task": "close_drawer: close the cabinet drawer",
+      "reference_task_index": 126,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 109,
+      "huiwon_task": "push the object into the drawer",
+      "subtask": "push_into_drawer",
+      "reference_full_task": "push_into_drawer: push the object into the drawer",
+      "reference_task_index": 38,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 110,
+      "huiwon_task": "go slide the blue block to the left",
+      "subtask": "push_blue_block_left",
+      "reference_full_task": "push_blue_block_left: go slide the blue block to the left",
+      "reference_task_index": 273,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 111,
+      "huiwon_task": "go push the blue block to the left",
+      "subtask": "push_blue_block_left",
+      "reference_full_task": "push_blue_block_left: go push the blue block to the left",
+      "reference_task_index": 220,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 112,
+      "huiwon_task": "open the drawer",
+      "subtask": "open_drawer",
+      "reference_full_task": "open_drawer: open the drawer",
+      "reference_task_index": 3,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 113,
+      "huiwon_task": "move the door to the left side",
+      "subtask": "move_slider_left",
+      "reference_full_task": "move_slider_left: move the door to the left side",
+      "reference_task_index": 34,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 114,
+      "huiwon_task": "rotate the red block to the left",
+      "subtask": "rotate_red_block_left",
+      "reference_full_task": "rotate_red_block_left: rotate the red block to the left",
+      "reference_task_index": 276,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 115,
+      "huiwon_task": "toggle the button to turn off the green light",
+      "subtask": "turn_off_led",
+      "reference_full_task": "turn_off_led: toggle the button to turn off the green light",
+      "reference_task_index": 187,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 116,
+      "huiwon_task": "grasp the blue block, then rotate it left",
+      "subtask": "rotate_blue_block_left",
+      "reference_full_task": "rotate_blue_block_left: grasp the blue block, then rotate it left",
+      "reference_task_index": 277,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 117,
+      "huiwon_task": "go towards the pink block in the drawer and lift it",
+      "subtask": "lift_pink_block_drawer",
+      "reference_full_task": "lift_pink_block_drawer: go towards the pink block in the drawer and lift it",
+      "reference_task_index": 282,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 118,
+      "huiwon_task": "put the grasped object in the cabinet",
+      "subtask": "place_in_slider",
+      "reference_full_task": "place_in_slider: put the grasped object in the cabinet",
+      "reference_task_index": 176,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 119,
+      "huiwon_task": "pick up the pink block lying in the drawer",
+      "subtask": "lift_pink_block_drawer",
+      "reference_full_task": "lift_pink_block_drawer: pick up the pink block lying in the drawer",
+      "reference_task_index": 134,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 120,
+      "huiwon_task": "place the object in the drawer",
+      "subtask": "place_in_drawer",
+      "reference_full_task": "place_in_drawer: place the object in the drawer",
+      "reference_task_index": 271,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 121,
+      "huiwon_task": "grasp the door handle and slide the door to the right",
+      "subtask": "move_slider_right",
+      "reference_full_task": "move_slider_right: grasp the door handle and slide the door to the right",
+      "reference_task_index": 52,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 122,
+      "huiwon_task": "grasp the door handle, then move the door to the right",
+      "subtask": "move_slider_right",
+      "reference_full_task": "move_slider_right: grasp the door handle, then move the door to the right",
+      "reference_task_index": 110,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 123,
+      "huiwon_task": "collapse the stacked blocks",
+      "subtask": "unstack_block",
+      "reference_full_task": "unstack_block: collapse the stacked blocks",
+      "reference_task_index": 30,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 124,
+      "huiwon_task": "move up the switch",
+      "subtask": "turn_on_lightbulb",
+      "reference_full_task": "turn_on_lightbulb: move up the switch",
+      "reference_task_index": 157,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 125,
+      "huiwon_task": "grasp the door handle and move the door to the right",
+      "subtask": "move_slider_right",
+      "reference_full_task": "move_slider_right: grasp the door handle and move the door to the right",
+      "reference_task_index": 289,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 126,
+      "huiwon_task": "slide the door to the left, then let it go",
+      "subtask": "move_slider_left",
+      "reference_full_task": "move_slider_left: slide the door to the left, then let it go",
+      "reference_task_index": 136,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 127,
+      "huiwon_task": "sweep the block into the drawer",
+      "subtask": "push_into_drawer",
+      "reference_full_task": "push_into_drawer: sweep the block into the drawer",
+      "reference_task_index": 75,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 128,
+      "huiwon_task": "store the object in the drawer",
+      "subtask": "place_in_drawer",
+      "reference_full_task": "place_in_drawer: store the object in the drawer",
+      "reference_task_index": 278,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 129,
+      "huiwon_task": "push the button to turn off the green light",
+      "subtask": "turn_off_led",
+      "reference_full_task": "turn_off_led: push the button to turn off the green light",
+      "reference_task_index": 99,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 130,
+      "huiwon_task": "pick up the blue block lying in the drawer",
+      "subtask": "lift_blue_block_drawer",
+      "reference_full_task": "lift_blue_block_drawer: pick up the blue block lying in the drawer",
+      "reference_task_index": 266,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 131,
+      "huiwon_task": "turn on the led lamp",
+      "subtask": "turn_on_led",
+      "reference_full_task": "turn_on_led: turn on the led lamp",
+      "reference_task_index": 274,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 132,
+      "huiwon_task": "push down the button to turn off the led",
+      "subtask": "turn_off_led",
+      "reference_full_task": "turn_off_led: push down the button to turn off the led",
+      "reference_task_index": 148,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 133,
+      "huiwon_task": "move the door all the way to the left and let go",
+      "subtask": "move_slider_left",
+      "reference_full_task": "move_slider_left: move the door all the way to the left and let go",
+      "reference_task_index": 228,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 134,
+      "huiwon_task": "in the slider grasp the red block",
+      "subtask": "lift_red_block_slider",
+      "reference_full_task": "lift_red_block_slider: in the slider grasp the red block",
+      "reference_task_index": 165,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 135,
+      "huiwon_task": "turn off the led light",
+      "subtask": "turn_off_led",
+      "reference_full_task": "turn_off_led: turn off the led light",
+      "reference_task_index": 253,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 136,
+      "huiwon_task": "move the light switch to turn off the light bulb",
+      "subtask": "turn_off_lightbulb",
+      "reference_full_task": "turn_off_lightbulb: move the light switch to turn off the light bulb",
+      "reference_task_index": 235,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 137,
+      "huiwon_task": "grasp the blue block lying in the slider",
+      "subtask": "lift_blue_block_slider",
+      "reference_full_task": "lift_blue_block_slider: grasp the blue block lying in the slider",
+      "reference_task_index": 296,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 138,
+      "huiwon_task": "pick up the pink block in the sliding cabinet",
+      "subtask": "lift_pink_block_slider",
+      "reference_full_task": "lift_pink_block_slider: pick up the pink block in the sliding cabinet",
+      "reference_task_index": 85,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 139,
+      "huiwon_task": "take the pink block and turn it left",
+      "subtask": "rotate_pink_block_left",
+      "reference_full_task": "rotate_pink_block_left: take the pink block and turn it left",
+      "reference_task_index": 173,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 140,
+      "huiwon_task": "push the door to the left",
+      "subtask": "move_slider_left",
+      "reference_full_task": "move_slider_left: push the door to the left",
+      "reference_task_index": 255,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 141,
+      "huiwon_task": "lift the pink block from the table",
+      "subtask": "lift_pink_block_table",
+      "reference_full_task": "lift_pink_block_table: lift the pink block from the table",
+      "reference_task_index": 218,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 142,
+      "huiwon_task": "grasp the drawer handle and close it",
+      "subtask": "close_drawer",
+      "reference_full_task": "close_drawer: grasp the drawer handle and close it",
+      "reference_task_index": 120,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 143,
+      "huiwon_task": "grasp the blue block on the table, then lift it up",
+      "subtask": "lift_blue_block_table",
+      "reference_full_task": "lift_blue_block_table: grasp the blue block on the table, then lift it up",
+      "reference_task_index": 59,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 144,
+      "huiwon_task": "slide the door to the right side",
+      "subtask": "move_slider_right",
+      "reference_full_task": "move_slider_right: slide the door to the right side",
+      "reference_task_index": 29,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 145,
+      "huiwon_task": "put the grasped object in the drawer",
+      "subtask": "place_in_drawer",
+      "reference_full_task": "place_in_drawer: put the grasped object in the drawer",
+      "reference_task_index": 11,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 146,
+      "huiwon_task": "rotate the red block 90 degrees to the left",
+      "subtask": "rotate_red_block_left",
+      "reference_full_task": "rotate_red_block_left: rotate the red block 90 degrees to the left",
+      "reference_task_index": 279,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 147,
+      "huiwon_task": "move to the drawer and store the object",
+      "subtask": "place_in_drawer",
+      "reference_full_task": "place_in_drawer: move to the drawer and store the object",
+      "reference_task_index": 237,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 148,
+      "huiwon_task": "put the object in the drawer",
+      "subtask": "place_in_drawer",
+      "reference_full_task": "place_in_drawer: put the object in the drawer",
+      "reference_task_index": 239,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 149,
+      "huiwon_task": "turn on the light bulb",
+      "subtask": "turn_on_lightbulb",
+      "reference_full_task": "turn_on_lightbulb: turn on the light bulb",
+      "reference_task_index": 64,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 150,
+      "huiwon_task": "take the blue block and rotate it right",
+      "subtask": "rotate_blue_block_right",
+      "reference_full_task": "rotate_blue_block_right: take the blue block and rotate it right",
+      "reference_task_index": 77,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 151,
+      "huiwon_task": "in the sliding cabinet grasp the red block",
+      "subtask": "lift_red_block_slider",
+      "reference_full_task": "lift_red_block_slider: in the sliding cabinet grasp the red block",
+      "reference_task_index": 311,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 152,
+      "huiwon_task": "go slide the blue block to the right",
+      "subtask": "push_blue_block_right",
+      "reference_full_task": "push_blue_block_right: go slide the blue block to the right",
+      "reference_task_index": 135,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 153,
+      "huiwon_task": "take off the stacked block",
+      "subtask": "unstack_block",
+      "reference_full_task": "unstack_block: take off the stacked block",
+      "reference_task_index": 27,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 154,
+      "huiwon_task": "grasp the blue block, then lift it up",
+      "subtask": "lift_blue_block_table",
+      "reference_full_task": "lift_blue_block_table: grasp the blue block, then lift it up",
+      "reference_task_index": 81,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 155,
+      "huiwon_task": "grasp the handle of the drawer and close it",
+      "subtask": "close_drawer",
+      "reference_full_task": "close_drawer: grasp the handle of the drawer and close it",
+      "reference_task_index": 249,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 156,
+      "huiwon_task": "grasp the red block on the table, then lift it up",
+      "subtask": "lift_red_block_table",
+      "reference_full_task": "lift_red_block_table: grasp the red block on the table, then lift it up",
+      "reference_task_index": 112,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 157,
+      "huiwon_task": "grasp the handle of the drawer, then close it",
+      "subtask": "close_drawer",
+      "reference_full_task": "close_drawer: grasp the handle of the drawer, then close it",
+      "reference_task_index": 291,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 158,
+      "huiwon_task": "push the button to turn off the led",
+      "subtask": "turn_off_led",
+      "reference_full_task": "turn_off_led: push the button to turn off the led",
+      "reference_task_index": 78,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 159,
+      "huiwon_task": "lift the blue block up",
+      "subtask": "lift_blue_block_table",
+      "reference_full_task": "lift_blue_block_table: lift the blue block up",
+      "reference_task_index": 95,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 160,
+      "huiwon_task": "turn off the light bulb",
+      "subtask": "turn_off_lightbulb",
+      "reference_full_task": "turn_off_lightbulb: turn off the light bulb",
+      "reference_task_index": 246,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 161,
+      "huiwon_task": "take off the block that is on top of the other one",
+      "subtask": "unstack_block",
+      "reference_full_task": "unstack_block: take off the block that is on top of the other one",
+      "reference_task_index": 243,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 162,
+      "huiwon_task": "slide the red block towards the left",
+      "subtask": "push_red_block_left",
+      "reference_full_task": "push_red_block_left: slide the red block towards the left",
+      "reference_task_index": 169,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 163,
+      "huiwon_task": "rotate the blue block towards the right",
+      "subtask": "rotate_blue_block_right",
+      "reference_full_task": "rotate_blue_block_right: rotate the blue block towards the right",
+      "reference_task_index": 285,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 164,
+      "huiwon_task": "move the light switch to turn on the light bulb",
+      "subtask": "turn_on_lightbulb",
+      "reference_full_task": "turn_on_lightbulb: move the light switch to turn on the light bulb",
+      "reference_task_index": 185,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 165,
+      "huiwon_task": "lift the red block lying in the sliding cabinet",
+      "subtask": "lift_red_block_slider",
+      "reference_full_task": "lift_red_block_slider: lift the red block lying in the sliding cabinet",
+      "reference_task_index": 322,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 166,
+      "huiwon_task": "sweep the object into the drawer",
+      "subtask": "push_into_drawer",
+      "reference_full_task": "push_into_drawer: sweep the object into the drawer",
+      "reference_task_index": 202,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 167,
+      "huiwon_task": "toggle the light switch to turn off the light bulb",
+      "subtask": "turn_off_lightbulb",
+      "reference_full_task": "turn_off_lightbulb: toggle the light switch to turn off the light bulb",
+      "reference_task_index": 156,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 168,
+      "huiwon_task": "rotate the pink block 90 degrees to the left",
+      "subtask": "rotate_pink_block_left",
+      "reference_full_task": "rotate_pink_block_left: rotate the pink block 90 degrees to the left",
+      "reference_task_index": 323,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 169,
+      "huiwon_task": "sweep the red block to the right",
+      "subtask": "push_red_block_right",
+      "reference_full_task": "push_red_block_right: sweep the red block to the right",
+      "reference_task_index": 224,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 170,
+      "huiwon_task": "go slide the pink block to the right",
+      "subtask": "push_pink_block_right",
+      "reference_full_task": "push_pink_block_right: go slide the pink block to the right",
+      "reference_task_index": 211,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 171,
+      "huiwon_task": "toggle the button to turn on the green light",
+      "subtask": "turn_on_led",
+      "reference_full_task": "turn_on_led: toggle the button to turn on the green light",
+      "reference_task_index": 60,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 172,
+      "huiwon_task": "take the pink block and rotate it left",
+      "subtask": "rotate_pink_block_left",
+      "reference_full_task": "rotate_pink_block_left: take the pink block and rotate it left",
+      "reference_task_index": 123,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 173,
+      "huiwon_task": "stack the object on top of another object",
+      "subtask": "stack_block",
+      "reference_full_task": "stack_block: stack the object on top of another object",
+      "reference_task_index": 50,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 174,
+      "huiwon_task": "lift the blue block lying in the drawer",
+      "subtask": "lift_blue_block_drawer",
+      "reference_full_task": "lift_blue_block_drawer: lift the blue block lying in the drawer",
+      "reference_task_index": 183,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 175,
+      "huiwon_task": "place the grasped object in the sliding cabinet",
+      "subtask": "place_in_slider",
+      "reference_full_task": "place_in_slider: place the grasped object in the sliding cabinet",
+      "reference_task_index": 19,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 176,
+      "huiwon_task": "grasp the red block lying in the drawer",
+      "subtask": "lift_red_block_drawer",
+      "reference_full_task": "lift_red_block_drawer: grasp the red block lying in the drawer",
+      "reference_task_index": 196,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 177,
+      "huiwon_task": "push left the blue block",
+      "subtask": "push_blue_block_left",
+      "reference_full_task": "push_blue_block_left: push left the blue block",
+      "reference_task_index": 191,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 178,
+      "huiwon_task": "lift the pink block lying in the sliding cabinet",
+      "subtask": "lift_pink_block_slider",
+      "reference_full_task": "lift_pink_block_slider: lift the pink block lying in the sliding cabinet",
+      "reference_task_index": 330,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 179,
+      "huiwon_task": "push down the button to turn on the led light",
+      "subtask": "turn_on_led",
+      "reference_full_task": "turn_on_led: push down the button to turn on the led light",
+      "reference_task_index": 143,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 180,
+      "huiwon_task": "push the blue block to the right",
+      "subtask": "push_blue_block_right",
+      "reference_full_task": "push_blue_block_right: push the blue block to the right",
+      "reference_task_index": 334,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 181,
+      "huiwon_task": "slide right the pink block",
+      "subtask": "push_pink_block_right",
+      "reference_full_task": "push_pink_block_right: slide right the pink block",
+      "reference_task_index": 321,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 182,
+      "huiwon_task": "pick up the red block",
+      "subtask": "lift_red_block_table",
+      "reference_full_task": "lift_red_block_table: pick up the red block",
+      "reference_task_index": 91,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 183,
+      "huiwon_task": "lift the pink block lying in the cabinet",
+      "subtask": "lift_pink_block_slider",
+      "reference_full_task": "lift_pink_block_slider: lift the pink block lying in the cabinet",
+      "reference_task_index": 340,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 184,
+      "huiwon_task": "turn off the green light",
+      "subtask": "turn_off_led",
+      "reference_full_task": "turn_off_led: turn off the green light",
+      "reference_task_index": 10,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 185,
+      "huiwon_task": "remove a block from the stack",
+      "subtask": "unstack_block",
+      "reference_full_task": "unstack_block: remove a block from the stack",
+      "reference_task_index": 139,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 186,
+      "huiwon_task": "put the grasped block on top of a block",
+      "subtask": "stack_block",
+      "reference_full_task": "stack_block: put the grasped block on top of a block",
+      "reference_task_index": 56,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 187,
+      "huiwon_task": "slide the pink block towards the right",
+      "subtask": "push_pink_block_right",
+      "reference_full_task": "push_pink_block_right: slide the pink block towards the right",
+      "reference_task_index": 332,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 188,
+      "huiwon_task": "in the cabinet pick up the blue block",
+      "subtask": "lift_blue_block_slider",
+      "reference_full_task": "lift_blue_block_slider: in the cabinet pick up the blue block",
+      "reference_task_index": 234,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 189,
+      "huiwon_task": "pick up the blue block on the table",
+      "subtask": "lift_blue_block_table",
+      "reference_full_task": "lift_blue_block_table: pick up the blue block on the table",
+      "reference_task_index": 186,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 190,
+      "huiwon_task": "push the block into the drawer",
+      "subtask": "push_into_drawer",
+      "reference_full_task": "push_into_drawer: push the block into the drawer",
+      "reference_task_index": 199,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 191,
+      "huiwon_task": "go towards the red block in the drawer and pick it up",
+      "subtask": "lift_red_block_drawer",
+      "reference_full_task": "lift_red_block_drawer: go towards the red block in the drawer and pick it up",
+      "reference_task_index": 170,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 192,
+      "huiwon_task": "grasp the pink block on the table, then lift it up",
+      "subtask": "lift_pink_block_table",
+      "reference_full_task": "lift_pink_block_table: grasp the pink block on the table, then lift it up",
+      "reference_task_index": 197,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 193,
+      "huiwon_task": "pick up the blue block",
+      "subtask": "lift_blue_block_table",
+      "reference_full_task": "lift_blue_block_table: pick up the blue block",
+      "reference_task_index": 192,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 194,
+      "huiwon_task": "grasp the pink block lying in the cabinet",
+      "subtask": "lift_pink_block_slider",
+      "reference_full_task": "lift_pink_block_slider: grasp the pink block lying in the cabinet",
+      "reference_task_index": 42,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 195,
+      "huiwon_task": "grasp the pink block, then rotate it left",
+      "subtask": "rotate_pink_block_left",
+      "reference_full_task": "rotate_pink_block_left: grasp the pink block, then rotate it left",
+      "reference_task_index": 240,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 196,
+      "huiwon_task": "lift the pink block",
+      "subtask": "lift_pink_block_table",
+      "reference_full_task": "lift_pink_block_table: lift the pink block",
+      "reference_task_index": 290,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 197,
+      "huiwon_task": "push the red block to the left",
+      "subtask": "push_red_block_left",
+      "reference_full_task": "push_red_block_left: push the red block to the left",
+      "reference_task_index": 329,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 198,
+      "huiwon_task": "pick up the red block in the sliding cabinet",
+      "subtask": "lift_red_block_slider",
+      "reference_full_task": "lift_red_block_slider: pick up the red block in the sliding cabinet",
+      "reference_task_index": 336,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 199,
+      "huiwon_task": "rotate left the blue block",
+      "subtask": "rotate_blue_block_left",
+      "reference_full_task": "rotate_blue_block_left: rotate left the blue block",
+      "reference_task_index": 46,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 200,
+      "huiwon_task": "in the slider grasp the pink block",
+      "subtask": "lift_pink_block_slider",
+      "reference_full_task": "lift_pink_block_slider: in the slider grasp the pink block",
+      "reference_task_index": 315,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 201,
+      "huiwon_task": "grasp the blue block, then turn it right",
+      "subtask": "rotate_blue_block_right",
+      "reference_full_task": "rotate_blue_block_right: grasp the blue block, then turn it right",
+      "reference_task_index": 293,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 202,
+      "huiwon_task": "in the cabinet grasp the blue block",
+      "subtask": "lift_blue_block_slider",
+      "reference_full_task": "lift_blue_block_slider: in the cabinet grasp the blue block",
+      "reference_task_index": 160,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 203,
+      "huiwon_task": "pick up the pink block from the table",
+      "subtask": "lift_pink_block_table",
+      "reference_full_task": "lift_pink_block_table: pick up the pink block from the table",
+      "reference_task_index": 294,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 204,
+      "huiwon_task": "push left the red block",
+      "subtask": "push_red_block_left",
+      "reference_full_task": "push_red_block_left: push left the red block",
+      "reference_task_index": 341,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 205,
+      "huiwon_task": "take the red block and turn it right",
+      "subtask": "rotate_red_block_right",
+      "reference_full_task": "rotate_red_block_right: take the red block and turn it right",
+      "reference_task_index": 172,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 206,
+      "huiwon_task": "grasp the blue block on the table and lift it up",
+      "subtask": "lift_blue_block_table",
+      "reference_full_task": "lift_blue_block_table: grasp the blue block on the table and lift it up",
+      "reference_task_index": 317,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 207,
+      "huiwon_task": "push right the red block",
+      "subtask": "push_red_block_right",
+      "reference_full_task": "push_red_block_right: push right the red block",
+      "reference_task_index": 359,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 208,
+      "huiwon_task": "grasp the red block in the drawer",
+      "subtask": "lift_red_block_drawer",
+      "reference_full_task": "lift_red_block_drawer: grasp the red block in the drawer",
+      "reference_task_index": 327,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 209,
+      "huiwon_task": "grasp the pink block in the drawer",
+      "subtask": "lift_pink_block_drawer",
+      "reference_full_task": "lift_pink_block_drawer: grasp the pink block in the drawer",
+      "reference_task_index": 357,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 210,
+      "huiwon_task": "rotate the blue block 90 degrees to the left",
+      "subtask": "rotate_blue_block_left",
+      "reference_full_task": "rotate_blue_block_left: rotate the blue block 90 degrees to the left",
+      "reference_task_index": 361,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 211,
+      "huiwon_task": "push the blue block towards the right",
+      "subtask": "push_blue_block_right",
+      "reference_full_task": "push_blue_block_right: push the blue block towards the right",
+      "reference_task_index": 177,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 212,
+      "huiwon_task": "pick up the blue block in the drawer",
+      "subtask": "lift_blue_block_drawer",
+      "reference_full_task": "lift_blue_block_drawer: pick up the blue block in the drawer",
+      "reference_task_index": 152,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 213,
+      "huiwon_task": "go towards the red block in the drawer and lift it",
+      "subtask": "lift_red_block_drawer",
+      "reference_full_task": "lift_red_block_drawer: go towards the red block in the drawer and lift it",
+      "reference_task_index": 270,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 214,
+      "huiwon_task": "lift the red block in the drawer",
+      "subtask": "lift_red_block_drawer",
+      "reference_full_task": "lift_red_block_drawer: lift the red block in the drawer",
+      "reference_task_index": 48,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 215,
+      "huiwon_task": "pick up the blue block from the shelf",
+      "subtask": "lift_blue_block_slider",
+      "reference_full_task": "lift_blue_block_slider: pick up the blue block from the shelf",
+      "reference_task_index": 114,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 216,
+      "huiwon_task": "slide the object into the drawer",
+      "subtask": "push_into_drawer",
+      "reference_full_task": "push_into_drawer: slide the object into the drawer",
+      "reference_task_index": 302,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 217,
+      "huiwon_task": "grasp the pink block and turn it left",
+      "subtask": "rotate_pink_block_left",
+      "reference_full_task": "rotate_pink_block_left: grasp the pink block and turn it left",
+      "reference_task_index": 352,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 218,
+      "huiwon_task": "push the pink block towards the left",
+      "subtask": "push_pink_block_left",
+      "reference_full_task": "push_pink_block_left: push the pink block towards the left",
+      "reference_task_index": 94,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 219,
+      "huiwon_task": "pick up the red block from the shelf",
+      "subtask": "lift_red_block_slider",
+      "reference_full_task": "lift_red_block_slider: pick up the red block from the shelf",
+      "reference_task_index": 308,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 220,
+      "huiwon_task": "grasp the blue block, then turn it left",
+      "subtask": "rotate_blue_block_left",
+      "reference_full_task": "rotate_blue_block_left: grasp the blue block, then turn it left",
+      "reference_task_index": 93,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 221,
+      "huiwon_task": "rotate right the pink block",
+      "subtask": "rotate_pink_block_right",
+      "reference_full_task": "rotate_pink_block_right: rotate right the pink block",
+      "reference_task_index": 244,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 222,
+      "huiwon_task": "grasp the pink block lying in the slider",
+      "subtask": "lift_pink_block_slider",
+      "reference_full_task": "lift_pink_block_slider: grasp the pink block lying in the slider",
+      "reference_task_index": 366,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 223,
+      "huiwon_task": "in the sliding cabinet grasp the blue block",
+      "subtask": "lift_blue_block_slider",
+      "reference_full_task": "lift_blue_block_slider: in the sliding cabinet grasp the blue block",
+      "reference_task_index": 314,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 224,
+      "huiwon_task": "pick up the blue block from the table",
+      "subtask": "lift_blue_block_table",
+      "reference_full_task": "lift_blue_block_table: pick up the blue block from the table",
+      "reference_task_index": 151,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 225,
+      "huiwon_task": "grasp the blue block and turn it left",
+      "subtask": "rotate_blue_block_left",
+      "reference_full_task": "rotate_blue_block_left: grasp the blue block and turn it left",
+      "reference_task_index": 256,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 226,
+      "huiwon_task": "lift the blue block lying on the shelf",
+      "subtask": "lift_blue_block_slider",
+      "reference_full_task": "lift_blue_block_slider: lift the blue block lying on the shelf",
+      "reference_task_index": 303,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 227,
+      "huiwon_task": "rotate the red block towards the left",
+      "subtask": "rotate_red_block_left",
+      "reference_full_task": "rotate_red_block_left: rotate the red block towards the left",
+      "reference_task_index": 145,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 228,
+      "huiwon_task": "lift the blue block lying in the slider",
+      "subtask": "lift_blue_block_slider",
+      "reference_full_task": "lift_blue_block_slider: lift the blue block lying in the slider",
+      "reference_task_index": 306,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 229,
+      "huiwon_task": "grasp the red block, then rotate it left",
+      "subtask": "rotate_red_block_left",
+      "reference_full_task": "rotate_red_block_left: grasp the red block, then rotate it left",
+      "reference_task_index": 113,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 230,
+      "huiwon_task": "in the cabinet pick up the red block",
+      "subtask": "lift_red_block_slider",
+      "reference_full_task": "lift_red_block_slider: in the cabinet pick up the red block",
+      "reference_task_index": 335,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 231,
+      "huiwon_task": "go push the red block to the right",
+      "subtask": "push_red_block_right",
+      "reference_full_task": "push_red_block_right: go push the red block to the right",
+      "reference_task_index": 348,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 232,
+      "huiwon_task": "rotate the pink block to the left",
+      "subtask": "rotate_pink_block_left",
+      "reference_full_task": "rotate_pink_block_left: rotate the pink block to the left",
+      "reference_task_index": 295,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 233,
+      "huiwon_task": "sweep the blue block to the left",
+      "subtask": "push_blue_block_left",
+      "reference_full_task": "push_blue_block_left: sweep the blue block to the left",
+      "reference_task_index": 194,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 234,
+      "huiwon_task": "lift the red block on the shelf",
+      "subtask": "lift_red_block_slider",
+      "reference_full_task": "lift_red_block_slider: lift the red block on the shelf",
+      "reference_task_index": 147,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 235,
+      "huiwon_task": "take the red block and turn it left",
+      "subtask": "rotate_red_block_left",
+      "reference_full_task": "rotate_red_block_left: take the red block and turn it left",
+      "reference_task_index": 57,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 236,
+      "huiwon_task": "grasp the red block, then turn it right",
+      "subtask": "rotate_red_block_right",
+      "reference_full_task": "rotate_red_block_right: grasp the red block, then turn it right",
+      "reference_task_index": 365,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 237,
+      "huiwon_task": "in the slider pick up the pink block",
+      "subtask": "lift_pink_block_slider",
+      "reference_full_task": "lift_pink_block_slider: in the slider pick up the pink block",
+      "reference_task_index": 283,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 238,
+      "huiwon_task": "turn the blue block left",
+      "subtask": "rotate_blue_block_left",
+      "reference_full_task": "rotate_blue_block_left: turn the blue block left",
+      "reference_task_index": 107,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 239,
+      "huiwon_task": "rotate the blue block towards the left",
+      "subtask": "rotate_blue_block_left",
+      "reference_full_task": "rotate_blue_block_left: rotate the blue block towards the left",
+      "reference_task_index": 372,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 240,
+      "huiwon_task": "rotate left the pink block",
+      "subtask": "rotate_pink_block_left",
+      "reference_full_task": "rotate_pink_block_left: rotate left the pink block",
+      "reference_task_index": 292,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 241,
+      "huiwon_task": "go slide the red block to the right",
+      "subtask": "push_red_block_right",
+      "reference_full_task": "push_red_block_right: go slide the red block to the right",
+      "reference_task_index": 354,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 242,
+      "huiwon_task": "rotate the blue block 90 degrees to the right",
+      "subtask": "rotate_blue_block_right",
+      "reference_full_task": "rotate_blue_block_right: rotate the blue block 90 degrees to the right",
+      "reference_task_index": 168,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 243,
+      "huiwon_task": "push the blue block towards the left",
+      "subtask": "push_blue_block_left",
+      "reference_full_task": "push_blue_block_left: push the blue block towards the left",
+      "reference_task_index": 155,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 244,
+      "huiwon_task": "slide left the pink block",
+      "subtask": "push_pink_block_left",
+      "reference_full_task": "push_pink_block_left: slide left the pink block",
+      "reference_task_index": 331,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 245,
+      "huiwon_task": "sweep the pink block to the right",
+      "subtask": "push_pink_block_right",
+      "reference_full_task": "push_pink_block_right: sweep the pink block to the right",
+      "reference_task_index": 345,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 246,
+      "huiwon_task": "go push the red block to the left",
+      "subtask": "push_red_block_left",
+      "reference_full_task": "push_red_block_left: go push the red block to the left",
+      "reference_task_index": 328,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 247,
+      "huiwon_task": "slide the pink block to the right",
+      "subtask": "push_pink_block_right",
+      "reference_full_task": "push_pink_block_right: slide the pink block to the right",
+      "reference_task_index": 367,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 248,
+      "huiwon_task": "grasp the blue block and rotate it left",
+      "subtask": "rotate_blue_block_left",
+      "reference_full_task": "rotate_blue_block_left: grasp the blue block and rotate it left",
+      "reference_task_index": 342,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 249,
+      "huiwon_task": "slide the blue block towards the right",
+      "subtask": "push_blue_block_right",
+      "reference_full_task": "push_blue_block_right: slide the blue block towards the right",
+      "reference_task_index": 171,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 250,
+      "huiwon_task": "go slide the pink block to the left",
+      "subtask": "push_pink_block_left",
+      "reference_full_task": "push_pink_block_left: go slide the pink block to the left",
+      "reference_task_index": 130,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 251,
+      "huiwon_task": "rotate right the blue block",
+      "subtask": "rotate_blue_block_right",
+      "reference_full_task": "rotate_blue_block_right: rotate right the blue block",
+      "reference_task_index": 162,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 252,
+      "huiwon_task": "turn the blue block right",
+      "subtask": "rotate_blue_block_right",
+      "reference_full_task": "rotate_blue_block_right: turn the blue block right",
+      "reference_task_index": 269,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 253,
+      "huiwon_task": "slide the blue block towards the left",
+      "subtask": "push_blue_block_left",
+      "reference_full_task": "push_blue_block_left: slide the blue block towards the left",
+      "reference_task_index": 309,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 254,
+      "huiwon_task": "go slide the red block to the left",
+      "subtask": "push_red_block_left",
+      "reference_full_task": "push_red_block_left: go slide the red block to the left",
+      "reference_task_index": 174,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 255,
+      "huiwon_task": "grasp the blue block and turn it right",
+      "subtask": "rotate_blue_block_right",
+      "reference_full_task": "rotate_blue_block_right: grasp the blue block and turn it right",
+      "reference_task_index": 213,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 256,
+      "huiwon_task": "rotate the blue block to the left",
+      "subtask": "rotate_blue_block_left",
+      "reference_full_task": "rotate_blue_block_left: rotate the blue block to the left",
+      "reference_task_index": 15,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 257,
+      "huiwon_task": "grasp the red block, then turn it left",
+      "subtask": "rotate_red_block_left",
+      "reference_full_task": "rotate_red_block_left: grasp the red block, then turn it left",
+      "reference_task_index": 364,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 258,
+      "huiwon_task": "rotate the red block to the right",
+      "subtask": "rotate_red_block_right",
+      "reference_full_task": "rotate_red_block_right: rotate the red block to the right",
+      "reference_task_index": 380,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 259,
+      "huiwon_task": "sweep the pink block to the left",
+      "subtask": "push_pink_block_left",
+      "reference_full_task": "push_pink_block_left: sweep the pink block to the left",
+      "reference_task_index": 350,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 260,
+      "huiwon_task": "turn the pink block left",
+      "subtask": "rotate_pink_block_left",
+      "reference_full_task": "rotate_pink_block_left: turn the pink block left",
+      "reference_task_index": 203,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 261,
+      "huiwon_task": "slide right the red block",
+      "subtask": "push_red_block_right",
+      "reference_full_task": "push_red_block_right: slide right the red block",
+      "reference_task_index": 272,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 262,
+      "huiwon_task": "push the red block to the right",
+      "subtask": "push_red_block_right",
+      "reference_full_task": "push_red_block_right: push the red block to the right",
+      "reference_task_index": 371,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 263,
+      "huiwon_task": "turn the pink block right",
+      "subtask": "rotate_pink_block_right",
+      "reference_full_task": "rotate_pink_block_right: turn the pink block right",
+      "reference_task_index": 381,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 264,
+      "huiwon_task": "push the blue block to the left",
+      "subtask": "push_blue_block_left",
+      "reference_full_task": "push_blue_block_left: push the blue block to the left",
+      "reference_task_index": 304,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 265,
+      "huiwon_task": "rotate left the red block",
+      "subtask": "rotate_red_block_left",
+      "reference_full_task": "rotate_red_block_left: rotate left the red block",
+      "reference_task_index": 286,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 266,
+      "huiwon_task": "sweep the red block to the left",
+      "subtask": "push_red_block_left",
+      "reference_full_task": "push_red_block_left: sweep the red block to the left",
+      "reference_task_index": 312,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 267,
+      "huiwon_task": "go push the pink block to the left",
+      "subtask": "push_pink_block_left",
+      "reference_full_task": "push_pink_block_left: go push the pink block to the left",
+      "reference_task_index": 247,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 268,
+      "huiwon_task": "grasp the red block and turn it right",
+      "subtask": "rotate_red_block_right",
+      "reference_full_task": "rotate_red_block_right: grasp the red block and turn it right",
+      "reference_task_index": 7,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 269,
+      "huiwon_task": "go push the pink block to the right",
+      "subtask": "push_pink_block_right",
+      "reference_full_task": "push_pink_block_right: go push the pink block to the right",
+      "reference_task_index": 355,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 270,
+      "huiwon_task": "grasp the blue block and rotate it right",
+      "subtask": "rotate_blue_block_right",
+      "reference_full_task": "rotate_blue_block_right: grasp the blue block and rotate it right",
+      "reference_task_index": 305,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 271,
+      "huiwon_task": "turn the red block right",
+      "subtask": "rotate_red_block_right",
+      "reference_full_task": "rotate_red_block_right: turn the red block right",
+      "reference_task_index": 383,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 272,
+      "huiwon_task": "grasp the red block and rotate it right",
+      "subtask": "rotate_red_block_right",
+      "reference_full_task": "rotate_red_block_right: grasp the red block and rotate it right",
+      "reference_task_index": 310,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 273,
+      "huiwon_task": "push right the pink block",
+      "subtask": "push_pink_block_right",
+      "reference_full_task": "push_pink_block_right: push right the pink block",
+      "reference_task_index": 368,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 274,
+      "huiwon_task": "take the pink block and turn it right",
+      "subtask": "rotate_pink_block_right",
+      "reference_full_task": "rotate_pink_block_right: take the pink block and turn it right",
+      "reference_task_index": 349,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 275,
+      "huiwon_task": "slide the pink block to the left",
+      "subtask": "push_pink_block_left",
+      "reference_full_task": "push_pink_block_left: slide the pink block to the left",
+      "reference_task_index": 339,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 276,
+      "huiwon_task": "take the pink block and rotate it right",
+      "subtask": "rotate_pink_block_right",
+      "reference_full_task": "rotate_pink_block_right: take the pink block and rotate it right",
+      "reference_task_index": 378,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 277,
+      "huiwon_task": "rotate right the red block",
+      "subtask": "rotate_red_block_right",
+      "reference_full_task": "rotate_red_block_right: rotate right the red block",
+      "reference_task_index": 376,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 278,
+      "huiwon_task": "rotate the pink block towards the right",
+      "subtask": "rotate_pink_block_right",
+      "reference_full_task": "rotate_pink_block_right: rotate the pink block towards the right",
+      "reference_task_index": 343,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 279,
+      "huiwon_task": "slide right the blue block",
+      "subtask": "push_blue_block_right",
+      "reference_full_task": "push_blue_block_right: slide right the blue block",
+      "reference_task_index": 344,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 280,
+      "huiwon_task": "toggle the button to turn off the led light",
+      "subtask": "turn_off_led",
+      "reference_full_task": "turn_off_led: toggle the button to turn off the led light",
+      "reference_task_index": 222,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 281,
+      "huiwon_task": "move the door to the left",
+      "subtask": "move_slider_left",
+      "reference_full_task": "move_slider_left: move the door to the left",
+      "reference_task_index": 133,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 282,
+      "huiwon_task": "grasp the door handle, then slide the door to the right",
+      "subtask": "move_slider_right",
+      "reference_full_task": "move_slider_right: grasp the door handle, then slide the door to the right",
+      "reference_task_index": 121,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 283,
+      "huiwon_task": "move the sliding door to the left",
+      "subtask": "move_slider_left",
+      "reference_full_task": "move_slider_left: move the sliding door to the left",
+      "reference_task_index": 21,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 284,
+      "huiwon_task": "go towards the blue block in the drawer and grasp it",
+      "subtask": "lift_blue_block_drawer",
+      "reference_full_task": "lift_blue_block_drawer: go towards the blue block in the drawer and grasp it",
+      "reference_task_index": 360,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 285,
+      "huiwon_task": "push the door to the left side",
+      "subtask": "move_slider_left",
+      "reference_full_task": "move_slider_left: push the door to the left side",
+      "reference_task_index": 69,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 286,
+      "huiwon_task": "place the grasped object in the slider",
+      "subtask": "place_in_slider",
+      "reference_full_task": "place_in_slider: place the grasped object in the slider",
+      "reference_task_index": 35,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 287,
+      "huiwon_task": "push the handle of the drawer",
+      "subtask": "close_drawer",
+      "reference_full_task": "close_drawer: push the handle of the drawer",
+      "reference_task_index": 182,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 288,
+      "huiwon_task": "put the block in the drawer",
+      "subtask": "place_in_drawer",
+      "reference_full_task": "place_in_drawer: put the block in the drawer",
+      "reference_task_index": 71,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 289,
+      "huiwon_task": "turn the red block left",
+      "subtask": "rotate_red_block_left",
+      "reference_full_task": "rotate_red_block_left: turn the red block left",
+      "reference_task_index": 206,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 290,
+      "huiwon_task": "slide the door to the right, then let it go",
+      "subtask": "move_slider_right",
+      "reference_full_task": "move_slider_right: slide the door to the right, then let it go",
+      "reference_task_index": 178,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 291,
+      "huiwon_task": "put the object in the sliding cabinet",
+      "subtask": "place_in_slider",
+      "reference_full_task": "place_in_slider: put the object in the sliding cabinet",
+      "reference_task_index": 175,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 292,
+      "huiwon_task": "toggle the button to turn on the led light",
+      "subtask": "turn_on_led",
+      "reference_full_task": "turn_on_led: toggle the button to turn on the led light",
+      "reference_task_index": 225,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 293,
+      "huiwon_task": "grasp the blue block lying on the shelf",
+      "subtask": "lift_blue_block_slider",
+      "reference_full_task": "lift_blue_block_slider: grasp the blue block lying on the shelf",
+      "reference_task_index": 385,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 294,
+      "huiwon_task": "slide the door to the left",
+      "subtask": "move_slider_left",
+      "reference_full_task": "move_slider_left: slide the door to the left",
+      "reference_task_index": 2,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 295,
+      "huiwon_task": "turn off the led lamp",
+      "subtask": "turn_off_led",
+      "reference_full_task": "turn_off_led: turn off the led lamp",
+      "reference_task_index": 338,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 296,
+      "huiwon_task": "grasp the pink block lying on the shelf",
+      "subtask": "lift_pink_block_slider",
+      "reference_full_task": "lift_pink_block_slider: grasp the pink block lying on the shelf",
+      "reference_task_index": 252,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 297,
+      "huiwon_task": "pick up the pink block",
+      "subtask": "lift_pink_block_table",
+      "reference_full_task": "lift_pink_block_table: pick up the pink block",
+      "reference_task_index": 318,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 298,
+      "huiwon_task": "move the sliding door to the right",
+      "subtask": "move_slider_right",
+      "reference_full_task": "move_slider_right: move the sliding door to the right",
+      "reference_task_index": 141,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 299,
+      "huiwon_task": "place in slider",
+      "subtask": "place_in_slider",
+      "reference_full_task": "place_in_slider: place in slider",
+      "reference_task_index": 275,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 300,
+      "huiwon_task": "place the grasped object in the cabinet",
+      "subtask": "place_in_slider",
+      "reference_full_task": "place_in_slider: place the grasped object in the cabinet",
+      "reference_task_index": 320,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 301,
+      "huiwon_task": "turn off the led",
+      "subtask": "turn_off_led",
+      "reference_full_task": "turn_off_led: turn off the led",
+      "reference_task_index": 319,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 302,
+      "huiwon_task": "slide the door to the left side",
+      "subtask": "move_slider_left",
+      "reference_full_task": "move_slider_left: slide the door to the left side",
+      "reference_task_index": 25,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 303,
+      "huiwon_task": "push down the button to turn on the green light",
+      "subtask": "turn_on_led",
+      "reference_full_task": "turn_on_led: push down the button to turn on the green light",
+      "reference_task_index": 189,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 304,
+      "huiwon_task": "grasp the pink block from the drawer",
+      "subtask": "lift_pink_block_drawer",
+      "reference_full_task": "lift_pink_block_drawer: grasp the pink block from the drawer",
+      "reference_task_index": 324,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 305,
+      "huiwon_task": "go towards the drawer and store the object",
+      "subtask": "place_in_drawer",
+      "reference_full_task": "place_in_drawer: go towards the drawer and store the object",
+      "reference_task_index": 127,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 306,
+      "huiwon_task": "put the object in the cabinet",
+      "subtask": "place_in_slider",
+      "reference_full_task": "place_in_slider: put the object in the cabinet",
+      "reference_task_index": 288,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 307,
+      "huiwon_task": "grasp the pink block lying in the drawer",
+      "subtask": "lift_pink_block_drawer",
+      "reference_full_task": "lift_pink_block_drawer: grasp the pink block lying in the drawer",
+      "reference_task_index": 119,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 308,
+      "huiwon_task": "slide up the switch",
+      "subtask": "turn_on_lightbulb",
+      "reference_full_task": "turn_on_lightbulb: slide up the switch",
+      "reference_task_index": 326,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 309,
+      "huiwon_task": "push the object that it falls into the drawer",
+      "subtask": "push_into_drawer",
+      "reference_full_task": "push_into_drawer: push the object that it falls into the drawer",
+      "reference_task_index": 180,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 310,
+      "huiwon_task": "lift the blue block",
+      "subtask": "lift_blue_block_table",
+      "reference_full_task": "lift_blue_block_table: lift the blue block",
+      "reference_task_index": 264,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 311,
+      "huiwon_task": "in the sliding cabinet grasp the pink block",
+      "subtask": "lift_pink_block_slider",
+      "reference_full_task": "lift_pink_block_slider: in the sliding cabinet grasp the pink block",
+      "reference_task_index": 370,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 312,
+      "huiwon_task": "turn off the green lamp",
+      "subtask": "turn_off_led",
+      "reference_full_task": "turn_off_led: turn off the green lamp",
+      "reference_task_index": 74,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 313,
+      "huiwon_task": "toggle the light switch to turn on the yellow light",
+      "subtask": "turn_on_lightbulb",
+      "reference_full_task": "turn_on_lightbulb: toggle the light switch to turn on the yellow light",
+      "reference_task_index": 44,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 314,
+      "huiwon_task": "place the block in the drawer",
+      "subtask": "place_in_drawer",
+      "reference_full_task": "place_in_drawer: place the block in the drawer",
+      "reference_task_index": 116,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 315,
+      "huiwon_task": "slide the red block towards the right",
+      "subtask": "push_red_block_right",
+      "reference_full_task": "push_red_block_right: slide the red block towards the right",
+      "reference_task_index": 251,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 316,
+      "huiwon_task": "turn on the green lamp",
+      "subtask": "turn_on_led",
+      "reference_full_task": "turn_on_led: turn on the green lamp",
+      "reference_task_index": 70,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 317,
+      "huiwon_task": "push the button to turn on the led light",
+      "subtask": "turn_on_led",
+      "reference_full_task": "turn_on_led: push the button to turn on the led light",
+      "reference_task_index": 284,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 318,
+      "huiwon_task": "lift the red block lying on the shelf",
+      "subtask": "lift_red_block_slider",
+      "reference_full_task": "lift_red_block_slider: lift the red block lying on the shelf",
+      "reference_task_index": 13,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 319,
+      "huiwon_task": "push the red block towards the right",
+      "subtask": "push_red_block_right",
+      "reference_full_task": "push_red_block_right: push the red block towards the right",
+      "reference_task_index": 307,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 320,
+      "huiwon_task": "push the door to the right side",
+      "subtask": "move_slider_right",
+      "reference_full_task": "move_slider_right: push the door to the right side",
+      "reference_task_index": 241,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 321,
+      "huiwon_task": "lift the blue block lying in the cabinet",
+      "subtask": "lift_blue_block_slider",
+      "reference_full_task": "lift_blue_block_slider: lift the blue block lying in the cabinet",
+      "reference_task_index": 386,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 322,
+      "huiwon_task": "grasp the blue block lying in the drawer",
+      "subtask": "lift_blue_block_drawer",
+      "reference_full_task": "lift_blue_block_drawer: grasp the blue block lying in the drawer",
+      "reference_task_index": 325,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 323,
+      "huiwon_task": "go to the tower of blocks and take off the top one",
+      "subtask": "unstack_block",
+      "reference_full_task": "unstack_block: go to the tower of blocks and take off the top one",
+      "reference_task_index": 179,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 324,
+      "huiwon_task": "put the block in the cabinet",
+      "subtask": "place_in_slider",
+      "reference_full_task": "place_in_slider: put the block in the cabinet",
+      "reference_task_index": 204,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 325,
+      "huiwon_task": "push the switch downwards",
+      "subtask": "turn_off_lightbulb",
+      "reference_full_task": "turn_off_lightbulb: push the switch downwards",
+      "reference_task_index": 1,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 326,
+      "huiwon_task": "move the light switch to turn off the yellow light",
+      "subtask": "turn_off_lightbulb",
+      "reference_full_task": "turn_off_lightbulb: move the light switch to turn off the yellow light",
+      "reference_task_index": 226,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 327,
+      "huiwon_task": "lift the pink block lying in the slider",
+      "subtask": "lift_pink_block_slider",
+      "reference_full_task": "lift_pink_block_slider: lift the pink block lying in the slider",
+      "reference_task_index": 261,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 328,
+      "huiwon_task": "pick up the red block from the sliding cabinet",
+      "subtask": "lift_red_block_slider",
+      "reference_full_task": "lift_red_block_slider: pick up the red block from the sliding cabinet",
+      "reference_task_index": 363,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 329,
+      "huiwon_task": "move the door all the way to the right",
+      "subtask": "move_slider_right",
+      "reference_full_task": "move_slider_right: move the door all the way to the right",
+      "reference_task_index": 96,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 330,
+      "huiwon_task": "place the block in the slider",
+      "subtask": "place_in_slider",
+      "reference_full_task": "place_in_slider: place the block in the slider",
+      "reference_task_index": 388,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 331,
+      "huiwon_task": "take the blue block and turn it left",
+      "subtask": "rotate_blue_block_left",
+      "reference_full_task": "rotate_blue_block_left: take the blue block and turn it left",
+      "reference_task_index": 280,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 332,
+      "huiwon_task": "pick up the pink block from the sliding cabinet",
+      "subtask": "lift_pink_block_slider",
+      "reference_full_task": "lift_pink_block_slider: pick up the pink block from the sliding cabinet",
+      "reference_task_index": 80,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 333,
+      "huiwon_task": "slide left the red block",
+      "subtask": "push_red_block_left",
+      "reference_full_task": "push_red_block_left: slide left the red block",
+      "reference_task_index": 250,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 334,
+      "huiwon_task": "rotate the blue block to the right",
+      "subtask": "rotate_blue_block_right",
+      "reference_full_task": "rotate_blue_block_right: rotate the blue block to the right",
+      "reference_task_index": 346,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 335,
+      "huiwon_task": "push down the button to turn off the led light",
+      "subtask": "turn_off_led",
+      "reference_full_task": "turn_off_led: push down the button to turn off the led light",
+      "reference_task_index": 300,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 336,
+      "huiwon_task": "grasp the red block on the table and lift it up",
+      "subtask": "lift_red_block_table",
+      "reference_full_task": "lift_red_block_table: grasp the red block on the table and lift it up",
+      "reference_task_index": 207,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 337,
+      "huiwon_task": "lift the blue block on the shelf",
+      "subtask": "lift_blue_block_slider",
+      "reference_full_task": "lift_blue_block_slider: lift the blue block on the shelf",
+      "reference_task_index": 201,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 338,
+      "huiwon_task": "pick up the blue block from the sliding cabinet",
+      "subtask": "lift_blue_block_slider",
+      "reference_full_task": "lift_blue_block_slider: pick up the blue block from the sliding cabinet",
+      "reference_task_index": 353,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 339,
+      "huiwon_task": "place the block in the cabinet",
+      "subtask": "place_in_slider",
+      "reference_full_task": "place_in_slider: place the block in the cabinet",
+      "reference_task_index": 214,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 340,
+      "huiwon_task": "push the button to turn on the green light",
+      "subtask": "turn_on_led",
+      "reference_full_task": "turn_on_led: push the button to turn on the green light",
+      "reference_task_index": 41,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 341,
+      "huiwon_task": "grasp the red block lying in the sliding cabinet",
+      "subtask": "lift_red_block_slider",
+      "reference_full_task": "lift_red_block_slider: grasp the red block lying in the sliding cabinet",
+      "reference_task_index": 137,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 342,
+      "huiwon_task": "grasp the red block lying on the shelf",
+      "subtask": "lift_red_block_slider",
+      "reference_full_task": "lift_red_block_slider: grasp the red block lying on the shelf",
+      "reference_task_index": 200,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 343,
+      "huiwon_task": "go towards the pink block in the drawer and pick it up",
+      "subtask": "lift_pink_block_drawer",
+      "reference_full_task": "lift_pink_block_drawer: go towards the pink block in the drawer and pick it up",
+      "reference_task_index": 6,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 344,
+      "huiwon_task": "go towards the blue block in the drawer and pick it up",
+      "subtask": "lift_blue_block_drawer",
+      "reference_full_task": "lift_blue_block_drawer: go towards the blue block in the drawer and pick it up",
+      "reference_task_index": 287,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 345,
+      "huiwon_task": "pick up the blue block in the sliding cabinet",
+      "subtask": "lift_blue_block_slider",
+      "reference_full_task": "lift_blue_block_slider: pick up the blue block in the sliding cabinet",
+      "reference_task_index": 163,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 346,
+      "huiwon_task": "in the slider grasp the blue block",
+      "subtask": "lift_blue_block_slider",
+      "reference_full_task": "lift_blue_block_slider: in the slider grasp the blue block",
+      "reference_task_index": 281,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 347,
+      "huiwon_task": "grasp the red block from the drawer",
+      "subtask": "lift_red_block_drawer",
+      "reference_full_task": "lift_red_block_drawer: grasp the red block from the drawer",
+      "reference_task_index": 313,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 348,
+      "huiwon_task": "lift the red block lying in the slider",
+      "subtask": "lift_red_block_slider",
+      "reference_full_task": "lift_red_block_slider: lift the red block lying in the slider",
+      "reference_task_index": 356,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 349,
+      "huiwon_task": "grasp the red block and rotate it left",
+      "subtask": "rotate_red_block_left",
+      "reference_full_task": "rotate_red_block_left: grasp the red block and rotate it left",
+      "reference_task_index": 257,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 350,
+      "huiwon_task": "rotate the red block 90 degrees to the right",
+      "subtask": "rotate_red_block_right",
+      "reference_full_task": "rotate_red_block_right: rotate the red block 90 degrees to the right",
+      "reference_task_index": 33,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 351,
+      "huiwon_task": "grasp the pink block, then turn it left",
+      "subtask": "rotate_pink_block_left",
+      "reference_full_task": "rotate_pink_block_left: grasp the pink block, then turn it left",
+      "reference_task_index": 358,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 352,
+      "huiwon_task": "lift the pink block lying on the shelf",
+      "subtask": "lift_pink_block_slider",
+      "reference_full_task": "lift_pink_block_slider: lift the pink block lying on the shelf",
+      "reference_task_index": 298,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 353,
+      "huiwon_task": "pick up the pink block from the shelf",
+      "subtask": "lift_pink_block_slider",
+      "reference_full_task": "lift_pink_block_slider: pick up the pink block from the shelf",
+      "reference_task_index": 333,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 354,
+      "huiwon_task": "push the pink block to the left",
+      "subtask": "push_pink_block_left",
+      "reference_full_task": "push_pink_block_left: push the pink block to the left",
+      "reference_task_index": 301,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 355,
+      "huiwon_task": "rotate the pink block to the right",
+      "subtask": "rotate_pink_block_right",
+      "reference_full_task": "rotate_pink_block_right: rotate the pink block to the right",
+      "reference_task_index": 245,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 356,
+      "huiwon_task": "push the pink block to the right",
+      "subtask": "push_pink_block_right",
+      "reference_full_task": "push_pink_block_right: push the pink block to the right",
+      "reference_task_index": 146,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 357,
+      "huiwon_task": "push left the pink block",
+      "subtask": "push_pink_block_left",
+      "reference_full_task": "push_pink_block_left: push left the pink block",
+      "reference_task_index": 18,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 358,
+      "huiwon_task": "take the red block and rotate it left",
+      "subtask": "rotate_red_block_left",
+      "reference_full_task": "rotate_red_block_left: take the red block and rotate it left",
+      "reference_task_index": 375,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 359,
+      "huiwon_task": "slide the red block to the right",
+      "subtask": "push_red_block_right",
+      "reference_full_task": "push_red_block_right: slide the red block to the right",
+      "reference_task_index": 347,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 360,
+      "huiwon_task": "grasp the pink block and rotate it left",
+      "subtask": "rotate_pink_block_left",
+      "reference_full_task": "rotate_pink_block_left: grasp the pink block and rotate it left",
+      "reference_task_index": 362,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 361,
+      "huiwon_task": "rotate the pink block towards the left",
+      "subtask": "rotate_pink_block_left",
+      "reference_full_task": "rotate_pink_block_left: rotate the pink block towards the left",
+      "reference_task_index": 351,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 362,
+      "huiwon_task": "take the red block and rotate it right",
+      "subtask": "rotate_red_block_right",
+      "reference_full_task": "rotate_red_block_right: take the red block and rotate it right",
+      "reference_task_index": 22,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 363,
+      "huiwon_task": "grasp the pink block and rotate it right",
+      "subtask": "rotate_pink_block_right",
+      "reference_full_task": "rotate_pink_block_right: grasp the pink block and rotate it right",
+      "reference_task_index": 373,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 364,
+      "huiwon_task": "rotate the pink block 90 degrees to the right",
+      "subtask": "rotate_pink_block_right",
+      "reference_full_task": "rotate_pink_block_right: rotate the pink block 90 degrees to the right",
+      "reference_task_index": 369,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 365,
+      "huiwon_task": "put the block in the sliding cabinet",
+      "subtask": "place_in_slider",
+      "reference_full_task": "place_in_slider: put the block in the sliding cabinet",
+      "reference_task_index": 221,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 366,
+      "huiwon_task": "put it in the slider",
+      "subtask": "place_in_slider",
+      "reference_full_task": "place_in_slider: put it in the slider",
+      "reference_task_index": 236,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 367,
+      "huiwon_task": "stack the blocks",
+      "subtask": "stack_block",
+      "reference_full_task": "stack_block: stack the blocks",
+      "reference_task_index": 67,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 368,
+      "huiwon_task": "grasp the red block and turn it left",
+      "subtask": "rotate_red_block_left",
+      "reference_full_task": "rotate_red_block_left: grasp the red block and turn it left",
+      "reference_task_index": 88,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 369,
+      "huiwon_task": "move the door all the way to the right and let go",
+      "subtask": "move_slider_right",
+      "reference_full_task": "move_slider_right: move the door all the way to the right and let go",
+      "reference_task_index": 262,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 370,
+      "huiwon_task": "go open the drawer",
+      "subtask": "open_drawer",
+      "reference_full_task": "open_drawer: go open the drawer",
+      "reference_task_index": 39,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 371,
+      "huiwon_task": "lift the pink block up",
+      "subtask": "lift_pink_block_table",
+      "reference_full_task": "lift_pink_block_table: lift the pink block up",
+      "reference_task_index": 103,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 372,
+      "huiwon_task": "move the door to the right side",
+      "subtask": "move_slider_right",
+      "reference_full_task": "move_slider_right: move the door to the right side",
+      "reference_task_index": 128,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 373,
+      "huiwon_task": "move down the switch",
+      "subtask": "turn_off_lightbulb",
+      "reference_full_task": "turn_off_lightbulb: move down the switch",
+      "reference_task_index": 9,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 374,
+      "huiwon_task": "toggle the button to turn off the led",
+      "subtask": "turn_off_led",
+      "reference_full_task": "turn_off_led: toggle the button to turn off the led",
+      "reference_task_index": 92,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 375,
+      "huiwon_task": "put the grasped object in the sliding cabinet",
+      "subtask": "place_in_slider",
+      "reference_full_task": "place_in_slider: put the grasped object in the sliding cabinet",
+      "reference_task_index": 209,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 376,
+      "huiwon_task": "pick up the blue block from the drawer",
+      "subtask": "lift_blue_block_drawer",
+      "reference_full_task": "lift_blue_block_drawer: pick up the blue block from the drawer",
+      "reference_task_index": 297,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 377,
+      "huiwon_task": "in the cabinet pick up the pink block",
+      "subtask": "lift_pink_block_slider",
+      "reference_full_task": "lift_pink_block_slider: in the cabinet pick up the pink block",
+      "reference_task_index": 316,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 378,
+      "huiwon_task": "slide the red block to the left",
+      "subtask": "push_red_block_left",
+      "reference_full_task": "push_red_block_left: slide the red block to the left",
+      "reference_task_index": 379,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 379,
+      "huiwon_task": "push the pink block towards the right",
+      "subtask": "push_pink_block_right",
+      "reference_full_task": "push_pink_block_right: push the pink block towards the right",
+      "reference_task_index": 374,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 380,
+      "huiwon_task": "rotate the red block towards the right",
+      "subtask": "rotate_red_block_right",
+      "reference_full_task": "rotate_red_block_right: rotate the red block towards the right",
+      "reference_task_index": 382,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 381,
+      "huiwon_task": "grasp the blue block in the drawer",
+      "subtask": "lift_blue_block_drawer",
+      "reference_full_task": "lift_blue_block_drawer: grasp the blue block in the drawer",
+      "reference_task_index": 45,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 382,
+      "huiwon_task": "lift the red block up",
+      "subtask": "lift_red_block_table",
+      "reference_full_task": "lift_red_block_table: lift the red block up",
+      "reference_task_index": 268,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 383,
+      "huiwon_task": "push the button to turn off the led light",
+      "subtask": "turn_off_led",
+      "reference_full_task": "turn_off_led: push the button to turn off the led light",
+      "reference_task_index": 299,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 384,
+      "huiwon_task": "place the object in the cabinet",
+      "subtask": "place_in_slider",
+      "reference_full_task": "place_in_slider: place the object in the cabinet",
+      "reference_task_index": 84,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 385,
+      "huiwon_task": "slide the door all the way to the left",
+      "subtask": "move_slider_left",
+      "reference_full_task": "move_slider_left: slide the door all the way to the left",
+      "reference_task_index": 384,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 386,
+      "huiwon_task": "take the blue block and rotate it left",
+      "subtask": "rotate_blue_block_left",
+      "reference_full_task": "rotate_blue_block_left: take the blue block and rotate it left",
+      "reference_task_index": 387,
+      "match_score": 1.0
+    },
+    {
+      "task_index": 387,
+      "huiwon_task": "grasp the pink block, then turn it right",
+      "subtask": "rotate_pink_block_right",
+      "reference_full_task": "rotate_pink_block_right: grasp the pink block, then turn it right",
+      "reference_task_index": 377,
+      "match_score": 1.0
+    }
+  ]
+}

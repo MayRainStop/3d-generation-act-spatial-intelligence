@@ -1,0 +1,94 @@
+# Python cache / local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# TeX build intermediates
+docs/*.aux
+docs/*.log
+docs/*.out
+docs/*.toc
+docs/*.lof
+docs/*.lot
+docs/*.fls
+docs/*.fdb_latexmk
+docs/*.synctex.gz
+docs/*.bbl
+docs/*.blg
+docs/*.nav
+docs/*.snm
+docs/*.vrb
+
+# Temporary render/check outputs
+docs/_render*/
+tmp/
+temp/
+*.tmp
+google_drive_upload/
+
+# Large downloaded archives and model artifacts kept locally, not in Git
+results/**/*.tar
+results/**/*.tar.gz
+results/**/*.tgz
+results/**/*.zip
+results/**/*.pid
+results/**/*.exit
+results/**/*status.json
+results/**/status/
+results/**/api_*.json
+results/**/*_eval_details.json
+results/**/3dgs/
+results/**/dataset_inspection/
+results/**/huiwon_tasks.parquet
+results/**/latest_*.txt
+results/**/logs/
+results/**/logs-full/
+results/**/model-weights/
+results/**/model_weights/
+results/**/mesh_blender_exports/
+results/**/outputs/
+results/**/surface_mesh_exports/
+results/**/threestudio_text_to_3d/
+results/**/zero123_image_to_3d/
+results/**/wandb/
+results/**/videos/
+results/**/calvin_eval_extensions/
+results/**/workspace-root-snapshot/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.db
+*.sqlite
+*.mp4
+*.mov
+*.avi
+*.ply
+*.obj
+*.mtl
+*.glb
+*.fbx
+*.blend
+pretrained_model/
+
+# Task-local raw data, videos, generated models, and vendored code caches.
+# They are kept locally for grading/transfer, but should be uploaded via cloud links
+# instead of committed directly to GitHub.
+tasks/**/data/
+tasks/**/outputs/
+tasks/**/assets/input-assets/
+tasks/**/external/
+tasks/**/__pycache__/

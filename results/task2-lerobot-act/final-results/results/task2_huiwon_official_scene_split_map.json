@@ -1,0 +1,55 @@
+{
+  "repo_id": "huiwon/calvin_task_ABC_D",
+  "subdir": "calvin_task_ABC_D_lerobot_0_4",
+  "local_dataset_root": "data/huiwon_calvin_task_ABC_D/calvin_task_ABC_D_lerobot_0_4",
+  "source": "official CALVIN task_ABC_D scene_info + huiwon original_frame_idx",
+  "scene_intervals": [
+    {
+      "env": "B",
+      "scene_name": "calvin_scene_B",
+      "start": 0,
+      "end": 598909
+    },
+    {
+      "env": "C",
+      "scene_name": "calvin_scene_C",
+      "start": 598910,
+      "end": 1191338
+    },
+    {
+      "env": "A",
+      "scene_name": "calvin_scene_A",
+      "start": 1191339,
+      "end": 1795044
+    }
+  ],
+  "counts": {
+    "A": {
+      "episodes": 1551,
+      "frames": 93359,
+      "episode_start": 0,
+      "episode_end": 4466,
+      "unique_tasks": 382,
+      "all_fully_within_single_scene": true
+    },
+    "B": {
+      "episodes": 1482,
+      "frames": 89314,
+      "episode_start": 1,
+      "episode_end": 4467,
+      "unique_tasks": 372,
+      "all_fully_within_single_scene": true
+    },
+    "C": {
+      "episodes": 1435,
+      "frames": 85009,
+      "episode_start": 2,
+      "episode_end": 4464,
+      "unique_tasks": 374,
+      "all_fully_within_single_scene": true
+    }
+  },
+  "num_episodes": 4468,
+  "num_frames": 267682,
+  "csv": "results/task2_huiwon_official_scene_split_map.csv"
+}

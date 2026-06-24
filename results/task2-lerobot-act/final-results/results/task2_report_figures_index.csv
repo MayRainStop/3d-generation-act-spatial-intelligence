@@ -1,0 +1,8 @@
+figure_id,path,description
+main_results,docs\report_assets\task2_main_results_bar.png,AvgLen bar plot with SR@1/SR@5 overlays for main Task 2 policies.
+success_horizon,docs\report_assets\task2_success_horizon.png,SR@1--SR@5 curves showing long-horizon degradation.
+checkpoint_sweep,docs\report_assets\task2_checkpoint_sweep.png,A-only and ABC SBERT checkpoint sensitivity on CALVIN explicit split.
+seed_robustness,docs\report_assets\task2_seed_robustness.png,Seed0/seed1 100k comparison with mean and sample standard deviation.
+split_size,docs\report_assets\task2_split_size.png,CALVIN explicit splitA/B/C/D episode and frame counts.
+visual_action_shift,docs\report_assets\task2_visual_action_shift.png,RGB distance to D compared with policy AvgLen.
+subtask_breakdown,docs\report_assets\task2_subtask_breakdown.png,Final-policy subtask-level success-rate breakdown.

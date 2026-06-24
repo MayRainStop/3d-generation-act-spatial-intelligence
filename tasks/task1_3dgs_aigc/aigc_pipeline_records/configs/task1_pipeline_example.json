@@ -1,0 +1,60 @@
+{
+  "project_name": "task1_3dgs_aigc_fusion",
+  "object_a": {
+    "name": "real_tissue_package",
+    "image_dir": "data/object_a_real/images",
+    "prepared_image_dir": "outputs/object_a_3dgs/prepared_images",
+    "summary_path": "outputs/object_a_3dgs/object_a_summary.json",
+    "min_recommended_images": 24,
+    "colmap_workspace": "outputs/object_a_3dgs/colmap",
+    "gs_output_dir": "outputs/object_a_3dgs/gaussians"
+  },
+  "object_b": {
+    "name": "text3d_pear",
+    "prompt": "a single ripe pear, centered, isolated, photorealistic, studio lighting, clear pear-shaped silhouette, short upper body, gently tapered neck, wide lower body, full round bottom, short brown stem, yellow-green skin with a soft red blush, subtle tiny speckles on the surface, natural proportions",
+    "negative_prompt": "blurry, low quality, deformed, duplicate, multiple pears, cropped, background clutter, spindle-shaped, perfectly symmetrical, elongated upper body, overly long neck, unnatural color",
+    "workspace": "outputs/object_b_text3d/threestudio",
+    "mesh_path": "outputs/object_b_text3d/threestudio/mesh.obj"
+  },
+  "object_c": {
+    "name": "image3d_single_photo",
+    "input_image": "data/object_c_image3d/inputs/object_c_input.png",
+    "negative_prompt": "blurry, low quality, deformed, duplicate, floating parts, broken geometry, cropped object, cluttered background",
+    "threestudio_config": "configs/stable-zero123.yaml",
+    "workspace": "outputs/object_c_zero123/run01",
+    "mesh_path": "outputs/object_c_zero123/run01/mesh.obj"
+  },
+  "scene": {
+    "name": "counter_scene",
+    "image_dir": "data/scene_real/images",
+    "colmap_workspace": "outputs/scene_3dgs/colmap",
+    "gs_output_dir": "outputs/scene_3dgs/gaussians"
+  },
+  "fusion": {
+    "target_asset": "object_b",
+    "asset_mesh_path": "outputs/object_b_text3d/threestudio/mesh.obj",
+    "scene_point_reference": "outputs/scene_3dgs/gaussians",
+    "blender_manifest_path": "outputs/fusion/blender_manifest.json",
+    "blend_path": "outputs/fusion/task1_scene.blend",
+    "render_output_dir": "outputs/fusion/renders",
+    "transform": {
+      "location": [0.0, 0.0, 0.0],
+      "rotation_euler_deg": [0.0, 0.0, 0.0],
+      "scale": [1.0, 1.0, 1.0]
+    },
+    "camera": {
+      "location": [4.0, -4.0, 2.5],
+      "rotation_euler_deg": [65.0, 0.0, 45.0],
+      "lens_mm": 35.0
+    }
+  },
+  "tools": {
+    "colmap_bin": "colmap",
+    "gaussian_splatting_train_script": "python train.py",
+    "gaussian_splatting_root": "external/gaussian-splatting",
+    "threestudio_launch": "python launch.py",
+    "threestudio_root": "external/threestudio",
+    "zero123_launch": "python run_zero123.py",
+    "blender_bin": "blender"
+  }
+}

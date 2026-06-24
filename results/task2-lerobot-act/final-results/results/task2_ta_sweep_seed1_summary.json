@@ -1,0 +1,162 @@
+{
+  "source": "TA official splitA/B/C/D sweep and seed1 extension",
+  "best": {
+    "family": "ta_ABC_sbert_seed1_100k",
+    "run_id": "act_ta_abc_lang_sbert_100k_seed1",
+    "condition_type": "sbert",
+    "summary_file": "/home/zyx2001/hw3_task2_lerobot_act/results/calvin_eval_extensions/act_ta_abc_lang_sbert_100k_seed1/D/calvin_act_ta_abc_lang_sbert_100k_seed1_sbert_D_eval_summary.json",
+    "avg_successful_sequence_len": 0.923,
+    "success_len1": 0.496,
+    "success_len2": 0.235,
+    "success_len3": 0.112,
+    "success_len4": 0.059,
+    "success_len5": 0.021,
+    "num_sequences": 1000
+  },
+  "rows": [
+    {
+      "family": "ta_A_seed0_100k",
+      "run_id": "act_ta_a_taskcond_100k_seed0",
+      "condition_type": "onehot",
+      "summary_file": "/home/zyx2001/hw3_task2_lerobot_act/results/calvin_eval_extensions/act_ta_a_taskcond_100k_seed0/D/calvin_act_ta_a_taskcond_100k_seed0_onehot_D_eval_summary.json",
+      "avg_successful_sequence_len": 0.855,
+      "success_len1": 0.525,
+      "success_len2": 0.225,
+      "success_len3": 0.072,
+      "success_len4": 0.025,
+      "success_len5": 0.008,
+      "num_sequences": 1000
+    },
+    {
+      "family": "ta_A_seed0_120k",
+      "run_id": "act_ta_a_taskcond_160k_seed0_ckpt120k",
+      "condition_type": "onehot",
+      "summary_file": "/home/zyx2001/hw3_task2_lerobot_act/results/calvin_eval_extensions/act_ta_a_taskcond_160k_seed0_ckpt120k/D/calvin_act_ta_a_taskcond_160k_seed0_ckpt120k_onehot_D_eval_summary.json",
+      "avg_successful_sequence_len": 0.726,
+      "success_len1": 0.487,
+      "success_len2": 0.161,
+      "success_len3": 0.053,
+      "success_len4": 0.02,
+      "success_len5": 0.005,
+      "num_sequences": 1000
+    },
+    {
+      "family": "ta_A_seed0_140k",
+      "run_id": "act_ta_a_taskcond_160k_seed0_ckpt140k",
+      "condition_type": "onehot",
+      "summary_file": "/home/zyx2001/hw3_task2_lerobot_act/results/calvin_eval_extensions/act_ta_a_taskcond_160k_seed0_ckpt140k/D/calvin_act_ta_a_taskcond_160k_seed0_ckpt140k_onehot_D_eval_summary.json",
+      "avg_successful_sequence_len": 0.681,
+      "success_len1": 0.451,
+      "success_len2": 0.159,
+      "success_len3": 0.051,
+      "success_len4": 0.016,
+      "success_len5": 0.004,
+      "num_sequences": 1000
+    },
+    {
+      "family": "ta_A_seed0_160k",
+      "run_id": "act_ta_a_taskcond_160k_seed0",
+      "condition_type": "onehot",
+      "summary_file": "/home/zyx2001/hw3_task2_lerobot_act/results/calvin_eval_extensions/act_ta_a_taskcond_160k_seed0/D/calvin_act_ta_a_taskcond_160k_seed0_onehot_D_eval_summary.json",
+      "avg_successful_sequence_len": 0.774,
+      "success_len1": 0.482,
+      "success_len2": 0.185,
+      "success_len3": 0.069,
+      "success_len4": 0.029,
+      "success_len5": 0.009,
+      "num_sequences": 1000
+    },
+    {
+      "family": "ta_A_seed1_50k",
+      "run_id": "act_ta_a_taskcond_100k_seed1_ckpt050k",
+      "condition_type": "onehot",
+      "summary_file": "/home/zyx2001/hw3_task2_lerobot_act/results/calvin_eval_extensions/act_ta_a_taskcond_100k_seed1_ckpt050k/D/calvin_act_ta_a_taskcond_100k_seed1_ckpt050k_onehot_D_eval_summary.json",
+      "missing": "/home/zyx2001/hw3_task2_lerobot_act/results/calvin_eval_extensions/act_ta_a_taskcond_100k_seed1_ckpt050k/D/calvin_act_ta_a_taskcond_100k_seed1_ckpt050k_onehot_D_eval_summary.json"
+    },
+    {
+      "family": "ta_A_seed1_100k",
+      "run_id": "act_ta_a_taskcond_100k_seed1",
+      "condition_type": "onehot",
+      "summary_file": "/home/zyx2001/hw3_task2_lerobot_act/results/calvin_eval_extensions/act_ta_a_taskcond_100k_seed1/D/calvin_act_ta_a_taskcond_100k_seed1_onehot_D_eval_summary.json",
+      "avg_successful_sequence_len": 0.846,
+      "success_len1": 0.487,
+      "success_len2": 0.219,
+      "success_len3": 0.088,
+      "success_len4": 0.041,
+      "success_len5": 0.011,
+      "num_sequences": 1000
+    },
+    {
+      "family": "ta_ABC_sbert_seed0_100k",
+      "run_id": "act_ta_abc_lang_sbert_100k_seed0",
+      "condition_type": "sbert",
+      "summary_file": "/home/zyx2001/hw3_task2_lerobot_act/results/calvin_eval_extensions/act_ta_abc_lang_sbert_100k_seed0/D/calvin_act_ta_abc_lang_sbert_100k_seed0_sbert_D_eval_summary.json",
+      "avg_successful_sequence_len": 0.787,
+      "success_len1": 0.477,
+      "success_len2": 0.195,
+      "success_len3": 0.071,
+      "success_len4": 0.032,
+      "success_len5": 0.012,
+      "num_sequences": 1000
+    },
+    {
+      "family": "ta_ABC_sbert_seed0_120k",
+      "run_id": "act_ta_abc_lang_sbert_160k_seed0_ckpt120k",
+      "condition_type": "sbert",
+      "summary_file": "/home/zyx2001/hw3_task2_lerobot_act/results/calvin_eval_extensions/act_ta_abc_lang_sbert_160k_seed0_ckpt120k/D/calvin_act_ta_abc_lang_sbert_160k_seed0_ckpt120k_sbert_D_eval_summary.json",
+      "avg_successful_sequence_len": 0.898,
+      "success_len1": 0.474,
+      "success_len2": 0.238,
+      "success_len3": 0.11,
+      "success_len4": 0.051,
+      "success_len5": 0.025,
+      "num_sequences": 1000
+    },
+    {
+      "family": "ta_ABC_sbert_seed0_140k",
+      "run_id": "act_ta_abc_lang_sbert_160k_seed0_ckpt140k",
+      "condition_type": "sbert",
+      "summary_file": "/home/zyx2001/hw3_task2_lerobot_act/results/calvin_eval_extensions/act_ta_abc_lang_sbert_160k_seed0_ckpt140k/D/calvin_act_ta_abc_lang_sbert_160k_seed0_ckpt140k_sbert_D_eval_summary.json",
+      "avg_successful_sequence_len": 0.759,
+      "success_len1": 0.45,
+      "success_len2": 0.2,
+      "success_len3": 0.066,
+      "success_len4": 0.028,
+      "success_len5": 0.015,
+      "num_sequences": 1000
+    },
+    {
+      "family": "ta_ABC_sbert_seed0_160k",
+      "run_id": "act_ta_abc_lang_sbert_160k_seed0",
+      "condition_type": "sbert",
+      "summary_file": "/home/zyx2001/hw3_task2_lerobot_act/results/calvin_eval_extensions/act_ta_abc_lang_sbert_160k_seed0/D/calvin_act_ta_abc_lang_sbert_160k_seed0_sbert_D_eval_summary.json",
+      "avg_successful_sequence_len": 0.915,
+      "success_len1": 0.483,
+      "success_len2": 0.261,
+      "success_len3": 0.104,
+      "success_len4": 0.045,
+      "success_len5": 0.022,
+      "num_sequences": 1000
+    },
+    {
+      "family": "ta_ABC_sbert_seed1_50k",
+      "run_id": "act_ta_abc_lang_sbert_100k_seed1_ckpt050k",
+      "condition_type": "sbert",
+      "summary_file": "/home/zyx2001/hw3_task2_lerobot_act/results/calvin_eval_extensions/act_ta_abc_lang_sbert_100k_seed1_ckpt050k/D/calvin_act_ta_abc_lang_sbert_100k_seed1_ckpt050k_sbert_D_eval_summary.json",
+      "missing": "/home/zyx2001/hw3_task2_lerobot_act/results/calvin_eval_extensions/act_ta_abc_lang_sbert_100k_seed1_ckpt050k/D/calvin_act_ta_abc_lang_sbert_100k_seed1_ckpt050k_sbert_D_eval_summary.json"
+    },
+    {
+      "family": "ta_ABC_sbert_seed1_100k",
+      "run_id": "act_ta_abc_lang_sbert_100k_seed1",
+      "condition_type": "sbert",
+      "summary_file": "/home/zyx2001/hw3_task2_lerobot_act/results/calvin_eval_extensions/act_ta_abc_lang_sbert_100k_seed1/D/calvin_act_ta_abc_lang_sbert_100k_seed1_sbert_D_eval_summary.json",
+      "avg_successful_sequence_len": 0.923,
+      "success_len1": 0.496,
+      "success_len2": 0.235,
+      "success_len3": 0.112,
+      "success_len4": 0.059,
+      "success_len5": 0.021,
+      "num_sequences": 1000
+    }
+  ]
+}

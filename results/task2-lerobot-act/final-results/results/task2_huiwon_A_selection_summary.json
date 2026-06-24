@@ -1,0 +1,16 @@
+{
+  "split": "A",
+  "repo_id": "huiwon/calvin_task_ABC_D",
+  "dataset_root": "data/huiwon_calvin_task_ABC_D_v30/huiwon/calvin_task_ABC_D",
+  "num_episodes": 1551,
+  "num_frames": 93359,
+  "unique_tasks": 382,
+  "official_source": "task_ABC_D scene_info + original_frame_idx",
+  "state_shape": [
+    403
+  ],
+  "image_keys": [
+    "observation.images.top",
+    "observation.images.wrist"
+  ]
+}

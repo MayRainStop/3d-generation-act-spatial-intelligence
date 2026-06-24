@@ -1,0 +1,7 @@
+run_id,log_path,status,exit_code,num_loss_values,first_loss,last_loss,best_loss
+act_abc_chunk100_seed0,/home/zyx2001/hw3_task2_lerobot_act/logs/act_abc_chunk100_seed0.train.log,finished,0,250,6.053,0.154,0.151
+act_abc_chunk10_seed0,/home/zyx2001/hw3_task2_lerobot_act/logs/act_abc_chunk10_seed0.train.log,finished,0,250,7.091,0.419,0.408
+act_abc_taskcond_seed0.task_conditioned,/home/zyx2001/hw3_task2_lerobot_act/logs/act_abc_taskcond_seed0.task_conditioned.train.log,missing,,250,6.116,0.262,0.255
+act_abc_to_d_seed0,/home/zyx2001/hw3_task2_lerobot_act/logs/act_abc_to_d_seed0.train.log,finished,0,250,6.227,0.302,0.286
+debug_smoke_seed0,/home/zyx2001/hw3_task2_lerobot_act/logs/debug_smoke_seed0.train.log,finished,0,1,7.883,7.883,7.883
+taskcond_debug_smoke_seed0.task_conditioned,/home/zyx2001/hw3_task2_lerobot_act/logs/taskcond_debug_smoke_seed0.task_conditioned.train.log,missing,,1,7.826,7.826,7.826

@@ -1,0 +1,37 @@
+{
+  "root": "data/xiaoma_calvin_lerobot_v30/xiaoma26",
+  "splits": [
+    {
+      "root": "data/xiaoma_calvin_lerobot_v30/xiaoma26/calvin_lerobot_splitA",
+      "image_keys": [
+        "image",
+        "wrist_image"
+      ],
+      "added_or_reset": []
+    },
+    {
+      "root": "data/xiaoma_calvin_lerobot_v30/xiaoma26/calvin_lerobot_splitB",
+      "image_keys": [
+        "image",
+        "wrist_image"
+      ],
+      "added_or_reset": []
+    },
+    {
+      "root": "data/xiaoma_calvin_lerobot_v30/xiaoma26/calvin_lerobot_splitC",
+      "image_keys": [
+        "image",
+        "wrist_image"
+      ],
+      "added_or_reset": []
+    },
+    {
+      "root": "data/xiaoma_calvin_lerobot_v30/xiaoma26/calvin_lerobot_splitD",
+      "image_keys": [
+        "image",
+        "wrist_image"
+      ],
+      "added_or_reset": []
+    }
+  ]
+}

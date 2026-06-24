@@ -1,0 +1,5 @@
+split_label,episode_start,episode_end,num_episodes,num_frames,unique_tasks,source,explicit_environment_label_present
+A_inferred,0,6318,6319,379231,389,ordered thirds of public LeRobot ABC-D train split,False
+B_inferred,6319,12637,6319,377837,389,ordered thirds of public LeRobot ABC-D train split,False
+C_inferred,12638,18956,6319,379468,389,ordered thirds of public LeRobot ABC-D train split,False
+ABC_mixed,0,18956,18957,1136536,389,ordered thirds of public LeRobot ABC-D train split,False

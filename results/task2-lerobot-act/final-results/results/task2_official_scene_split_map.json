@@ -1,0 +1,49 @@
+{
+  "updated_at": "2026-06-04T21:40:00+08:00",
+  "dataset_root": "/home/zyx2001/.cache/huggingface/lerobot/fywang/calvin-task-ABC-D-lerobot",
+  "scene_info_json": "results/official_task_ABC_D_scene_info.json",
+  "source": "official CALVIN task_ABC_D.zip training/scene_info.npy via HTTP Range extraction",
+  "scene_intervals": [
+    {
+      "official_env": "B",
+      "scene_name": "calvin_scene_B",
+      "start_index": 0,
+      "end_index": 598909
+    },
+    {
+      "official_env": "C",
+      "scene_name": "calvin_scene_C",
+      "start_index": 598910,
+      "end_index": 1191338
+    },
+    {
+      "official_env": "A",
+      "scene_name": "calvin_scene_A",
+      "start_index": 1191339,
+      "end_index": 1795044
+    }
+  ],
+  "counts": {
+    "B": {
+      "episodes": 10000,
+      "frames": 598918,
+      "unique_tasks": 389,
+      "episode_start": 0,
+      "episode_end": 9999,
+      "all_fully_within_single_scene": false
+    },
+    "C": {
+      "episodes": 8957,
+      "frames": 537618,
+      "unique_tasks": 389,
+      "episode_start": 10000,
+      "episode_end": 18956,
+      "all_fully_within_single_scene": true
+    }
+  },
+  "num_rows": 18957,
+  "unknown_episodes": [],
+  "cross_scene_episodes": [
+    9999
+  ]
+}

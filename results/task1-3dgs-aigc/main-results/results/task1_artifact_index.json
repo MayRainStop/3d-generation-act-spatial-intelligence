@@ -1,0 +1,2011 @@
+{
+  "run_id": "export_artifact_check",
+  "status": "finished",
+  "exit_code": 0,
+  "updated_at": "2026-06-04T09:48:42.109333+08:00",
+  "blender_executable": null,
+  "artifact_count": 500,
+  "artifacts": [
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/input.ply",
+      "size": 1465658
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/point_cloud/iteration_30000/point_cloud.ply",
+      "size": 1161213420
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/point_cloud/iteration_7000/point_cloud.ply",
+      "size": 789189116
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00000.png",
+      "size": 2055504
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00001.png",
+      "size": 2143413
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00002.png",
+      "size": 2101700
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00003.png",
+      "size": 1991732
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00004.png",
+      "size": 2030120
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00005.png",
+      "size": 1992389
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00006.png",
+      "size": 2012615
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00007.png",
+      "size": 2046972
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00008.png",
+      "size": 1935872
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00009.png",
+      "size": 1916079
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00010.png",
+      "size": 1868425
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00011.png",
+      "size": 2020828
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00012.png",
+      "size": 1936924
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00013.png",
+      "size": 1964858
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00014.png",
+      "size": 1938733
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00015.png",
+      "size": 1767243
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00016.png",
+      "size": 1817731
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00017.png",
+      "size": 2026424
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00018.png",
+      "size": 1897708
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00019.png",
+      "size": 1789019
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00020.png",
+      "size": 1843868
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00021.png",
+      "size": 1897681
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00022.png",
+      "size": 1874952
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00023.png",
+      "size": 2100581
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/gt/00024.png",
+      "size": 1967089
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00000.png",
+      "size": 1735749
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00001.png",
+      "size": 1838015
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00002.png",
+      "size": 1793385
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00003.png",
+      "size": 1691710
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00004.png",
+      "size": 1710602
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00005.png",
+      "size": 1750194
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00006.png",
+      "size": 1835737
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00007.png",
+      "size": 1835010
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00008.png",
+      "size": 1728755
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00009.png",
+      "size": 1732875
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00010.png",
+      "size": 1597562
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00011.png",
+      "size": 1797933
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00012.png",
+      "size": 1762052
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00013.png",
+      "size": 1830322
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00014.png",
+      "size": 1711294
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00015.png",
+      "size": 1476590
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00016.png",
+      "size": 1686692
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00017.png",
+      "size": 1869441
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00018.png",
+      "size": 1858509
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00019.png",
+      "size": 1701008
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00020.png",
+      "size": 1699867
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00021.png",
+      "size": 1743398
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00022.png",
+      "size": 1841355
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00023.png",
+      "size": 1810402
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/test/ours_30000/renders/00024.png",
+      "size": 1803263
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00000.png",
+      "size": 1765092
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00001.png",
+      "size": 1972616
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00002.png",
+      "size": 1602792
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00003.png",
+      "size": 1969653
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00004.png",
+      "size": 1676027
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00005.png",
+      "size": 2066550
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00006.png",
+      "size": 1959277
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00007.png",
+      "size": 2066405
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00008.png",
+      "size": 2150875
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00009.png",
+      "size": 2039814
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00010.png",
+      "size": 1860887
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00011.png",
+      "size": 1880009
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00012.png",
+      "size": 2097923
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00013.png",
+      "size": 1693646
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00014.png",
+      "size": 1419077
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00015.png",
+      "size": 2041786
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00016.png",
+      "size": 1269503
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00017.png",
+      "size": 1965754
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00018.png",
+      "size": 1280499
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00019.png",
+      "size": 2014829
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00020.png",
+      "size": 1393639
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00021.png",
+      "size": 1233104
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00022.png",
+      "size": 1919842
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00023.png",
+      "size": 2004459
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00024.png",
+      "size": 1856859
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00025.png",
+      "size": 1886549
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00026.png",
+      "size": 2014318
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00027.png",
+      "size": 1856811
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00028.png",
+      "size": 1492952
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00029.png",
+      "size": 1907484
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00030.png",
+      "size": 1355289
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00031.png",
+      "size": 1988578
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00032.png",
+      "size": 1358519
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00033.png",
+      "size": 1897380
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00034.png",
+      "size": 1401437
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00035.png",
+      "size": 1309055
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00036.png",
+      "size": 1998510
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00037.png",
+      "size": 1607271
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00038.png",
+      "size": 2061206
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00039.png",
+      "size": 1709838
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00040.png",
+      "size": 1945427
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00041.png",
+      "size": 1596208
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00042.png",
+      "size": 1704799
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00043.png",
+      "size": 2049472
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00044.png",
+      "size": 1660388
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00045.png",
+      "size": 2031011
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00046.png",
+      "size": 1749889
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00047.png",
+      "size": 1995189
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00048.png",
+      "size": 1929335
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00049.png",
+      "size": 1914299
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00050.png",
+      "size": 2026909
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00051.png",
+      "size": 1939799
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00052.png",
+      "size": 1920088
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00053.png",
+      "size": 1925920
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00054.png",
+      "size": 1911599
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00055.png",
+      "size": 1876480
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00056.png",
+      "size": 1686323
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00057.png",
+      "size": 1910030
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00058.png",
+      "size": 1794954
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00059.png",
+      "size": 1938763
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00060.png",
+      "size": 1876982
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00061.png",
+      "size": 1965823
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00062.png",
+      "size": 1859313
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00063.png",
+      "size": 1732942
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00064.png",
+      "size": 1870126
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00065.png",
+      "size": 1908189
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00066.png",
+      "size": 1818097
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00067.png",
+      "size": 1928481
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00068.png",
+      "size": 1819660
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00069.png",
+      "size": 1897390
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00070.png",
+      "size": 1963426
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00071.png",
+      "size": 1885579
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00072.png",
+      "size": 1917095
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00073.png",
+      "size": 1970458
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00074.png",
+      "size": 1696155
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00075.png",
+      "size": 2008859
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00076.png",
+      "size": 1534646
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00077.png",
+      "size": 1574345
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00078.png",
+      "size": 1987724
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00079.png",
+      "size": 1644107
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00080.png",
+      "size": 1914190
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00081.png",
+      "size": 1619484
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00082.png",
+      "size": 1910391
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00083.png",
+      "size": 1744011
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00084.png",
+      "size": 1808510
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00085.png",
+      "size": 1937448
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00086.png",
+      "size": 1611687
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00087.png",
+      "size": 1970124
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00088.png",
+      "size": 1808227
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00089.png",
+      "size": 1969547
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00090.png",
+      "size": 1891305
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00091.png",
+      "size": 1882133
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00092.png",
+      "size": 2028323
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00093.png",
+      "size": 1852510
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00094.png",
+      "size": 1860576
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00095.png",
+      "size": 1902430
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00096.png",
+      "size": 2006027
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00097.png",
+      "size": 1873566
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00098.png",
+      "size": 1823536
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00099.png",
+      "size": 1980212
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00100.png",
+      "size": 1883253
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00101.png",
+      "size": 2015746
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00102.png",
+      "size": 1898629
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00103.png",
+      "size": 1876506
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00104.png",
+      "size": 1813646
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00105.png",
+      "size": 1799698
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00106.png",
+      "size": 1841959
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00107.png",
+      "size": 1800727
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00108.png",
+      "size": 1973852
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00109.png",
+      "size": 1780082
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00110.png",
+      "size": 1903252
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00111.png",
+      "size": 1696381
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00112.png",
+      "size": 1703230
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00113.png",
+      "size": 1974370
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00114.png",
+      "size": 1753726
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00115.png",
+      "size": 1972987
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00116.png",
+      "size": 1891767
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00117.png",
+      "size": 1974590
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00118.png",
+      "size": 1925926
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00119.png",
+      "size": 1857519
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00120.png",
+      "size": 2014665
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00121.png",
+      "size": 1826603
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00122.png",
+      "size": 2002092
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00123.png",
+      "size": 1809887
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00124.png",
+      "size": 1991271
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00125.png",
+      "size": 1781208
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00126.png",
+      "size": 1803228
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00127.png",
+      "size": 1953531
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00128.png",
+      "size": 1816630
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00129.png",
+      "size": 1961893
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00130.png",
+      "size": 1803366
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00131.png",
+      "size": 1909919
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00132.png",
+      "size": 1765263
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00133.png",
+      "size": 1759135
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00134.png",
+      "size": 1893420
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00135.png",
+      "size": 1818046
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00136.png",
+      "size": 1850350
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00137.png",
+      "size": 1875936
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00138.png",
+      "size": 1917115
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00139.png",
+      "size": 1802481
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00140.png",
+      "size": 1771135
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00141.png",
+      "size": 1804755
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00142.png",
+      "size": 1677359
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00143.png",
+      "size": 1893773
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00144.png",
+      "size": 1726342
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00145.png",
+      "size": 2016161
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00146.png",
+      "size": 1779263
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00147.png",
+      "size": 1667574
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00148.png",
+      "size": 1911929
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00149.png",
+      "size": 1673083
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00150.png",
+      "size": 1925686
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00151.png",
+      "size": 1711118
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00152.png",
+      "size": 1880557
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00153.png",
+      "size": 1843080
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00154.png",
+      "size": 1917331
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00155.png",
+      "size": 2025260
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00156.png",
+      "size": 1841571
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00157.png",
+      "size": 1949763
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00158.png",
+      "size": 1972755
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00159.png",
+      "size": 2058821
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00160.png",
+      "size": 1888502
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00161.png",
+      "size": 2008756
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00162.png",
+      "size": 1868301
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00163.png",
+      "size": 1969778
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00164.png",
+      "size": 2090369
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00165.png",
+      "size": 2043383
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00166.png",
+      "size": 2032903
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00167.png",
+      "size": 2141569
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/gt/00168.png",
+      "size": 1990477
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00000.png",
+      "size": 1568808
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00001.png",
+      "size": 1767502
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00002.png",
+      "size": 1437843
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00003.png",
+      "size": 1745679
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00004.png",
+      "size": 1497677
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00005.png",
+      "size": 1827147
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00006.png",
+      "size": 1790021
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00007.png",
+      "size": 1848689
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00008.png",
+      "size": 1859948
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00009.png",
+      "size": 1852173
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00010.png",
+      "size": 1767290
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00011.png",
+      "size": 1672667
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00012.png",
+      "size": 1802420
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00013.png",
+      "size": 1521661
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00014.png",
+      "size": 1287612
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00015.png",
+      "size": 1772850
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00016.png",
+      "size": 1136373
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00017.png",
+      "size": 1748377
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00018.png",
+      "size": 1104366
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00019.png",
+      "size": 1755897
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00020.png",
+      "size": 1210764
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00021.png",
+      "size": 1050156
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00022.png",
+      "size": 1614555
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00023.png",
+      "size": 1735537
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00024.png",
+      "size": 1660049
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00025.png",
+      "size": 1644422
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00026.png",
+      "size": 1721111
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00027.png",
+      "size": 1657097
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00028.png",
+      "size": 1328966
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00029.png",
+      "size": 1746780
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00030.png",
+      "size": 1230735
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00031.png",
+      "size": 1755619
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00032.png",
+      "size": 1238741
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00033.png",
+      "size": 1655548
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00034.png",
+      "size": 1247643
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00035.png",
+      "size": 1176629
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00036.png",
+      "size": 1791087
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00037.png",
+      "size": 1468246
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00038.png",
+      "size": 1863877
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00039.png",
+      "size": 1564200
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00040.png",
+      "size": 1775626
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00041.png",
+      "size": 1433101
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00042.png",
+      "size": 1507697
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00043.png",
+      "size": 1853685
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00044.png",
+      "size": 1504345
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00045.png",
+      "size": 1843073
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00046.png",
+      "size": 1562191
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00047.png",
+      "size": 1812046
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00048.png",
+      "size": 1719797
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00049.png",
+      "size": 1725827
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00050.png",
+      "size": 1824989
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00051.png",
+      "size": 1730544
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00052.png",
+      "size": 1805323
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00053.png",
+      "size": 1751145
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00054.png",
+      "size": 1732484
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00055.png",
+      "size": 1683724
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00056.png",
+      "size": 1533191
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00057.png",
+      "size": 1717956
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00058.png",
+      "size": 1616822
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00059.png",
+      "size": 1774160
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00060.png",
+      "size": 1676713
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00061.png",
+      "size": 1746674
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00062.png",
+      "size": 1654856
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00063.png",
+      "size": 1590010
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00064.png",
+      "size": 1631807
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00065.png",
+      "size": 1658941
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00066.png",
+      "size": 1552033
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00067.png",
+      "size": 1678057
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00068.png",
+      "size": 1512884
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00069.png",
+      "size": 1690561
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00070.png",
+      "size": 1743280
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00071.png",
+      "size": 1634659
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00072.png",
+      "size": 1745506
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00073.png",
+      "size": 1754971
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00074.png",
+      "size": 1521552
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00075.png",
+      "size": 1799341
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00076.png",
+      "size": 1408148
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00077.png",
+      "size": 1453906
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00078.png",
+      "size": 1791477
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00079.png",
+      "size": 1468736
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00080.png",
+      "size": 1779444
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00081.png",
+      "size": 1447737
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00082.png",
+      "size": 1758750
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00083.png",
+      "size": 1593574
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00084.png",
+      "size": 1630586
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00085.png",
+      "size": 1761039
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00086.png",
+      "size": 1512309
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00087.png",
+      "size": 1838492
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00088.png",
+      "size": 1654104
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00089.png",
+      "size": 1834460
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00090.png",
+      "size": 1700014
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00091.png",
+      "size": 1725592
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00092.png",
+      "size": 1864449
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00093.png",
+      "size": 1649847
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00094.png",
+      "size": 1828962
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00095.png",
+      "size": 1692175
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00096.png",
+      "size": 1815195
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00097.png",
+      "size": 1663648
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00098.png",
+      "size": 1599413
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00099.png",
+      "size": 1727058
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00100.png",
+      "size": 1638287
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00101.png",
+      "size": 1767328
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00102.png",
+      "size": 1664145
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00103.png",
+      "size": 1677602
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00104.png",
+      "size": 1574723
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00105.png",
+      "size": 1529602
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00106.png",
+      "size": 1604938
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00107.png",
+      "size": 1534141
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00108.png",
+      "size": 1781683
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00109.png",
+      "size": 1587511
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00110.png",
+      "size": 1723565
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00111.png",
+      "size": 1486069
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00112.png",
+      "size": 1521250
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00113.png",
+      "size": 1767453
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00114.png",
+      "size": 1543632
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00115.png",
+      "size": 1777357
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00116.png",
+      "size": 1675156
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00117.png",
+      "size": 1815650
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00118.png",
+      "size": 1669978
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00119.png",
+      "size": 1636586
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00120.png",
+      "size": 1870847
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00121.png",
+      "size": 1585513
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00122.png",
+      "size": 1867278
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00123.png",
+      "size": 1563140
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00124.png",
+      "size": 1811813
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00125.png",
+      "size": 1569562
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00126.png",
+      "size": 1592771
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00127.png",
+      "size": 1842921
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00128.png",
+      "size": 1612707
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00129.png",
+      "size": 1790150
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00130.png",
+      "size": 1574218
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00131.png",
+      "size": 1721088
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00132.png",
+      "size": 1546881
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00133.png",
+      "size": 1533336
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00134.png",
+      "size": 1716643
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00135.png",
+      "size": 1571657
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00136.png",
+      "size": 1763035
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00137.png",
+      "size": 1646646
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00138.png",
+      "size": 1766699
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00139.png",
+      "size": 1578079
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00140.png",
+      "size": 1507549
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00141.png",
+      "size": 1546880
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00142.png",
+      "size": 1423032
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00143.png",
+      "size": 1681902
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00144.png",
+      "size": 1481642
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00145.png",
+      "size": 1842570
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00146.png",
+      "size": 1530695
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00147.png",
+      "size": 1477861
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00148.png",
+      "size": 1692450
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00149.png",
+      "size": 1472559
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00150.png",
+      "size": 1788621
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00151.png",
+      "size": 1476382
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00152.png",
+      "size": 1770514
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00153.png",
+      "size": 1626496
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00154.png",
+      "size": 1666746
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00155.png",
+      "size": 1874388
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00156.png",
+      "size": 1589452
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00157.png",
+      "size": 1831208
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00158.png",
+      "size": 1845708
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00159.png",
+      "size": 1909325
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00160.png",
+      "size": 1705876
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00161.png",
+      "size": 1746340
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00162.png",
+      "size": 1520686
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00163.png",
+      "size": 1718779
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00164.png",
+      "size": 1878606
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00165.png",
+      "size": 1847707
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00166.png",
+      "size": 1818642
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00167.png",
+      "size": 1914806
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/bicycle_iter30000_r4/train/ours_30000/renders/00168.png",
+      "size": 1777013
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/input.ply",
+      "size": 4205943
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/point_cloud/iteration_30000/point_cloud.ply",
+      "size": 227078515
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/point_cloud/iteration_7000/point_cloud.ply",
+      "size": 216590347
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00000.png",
+      "size": 636578
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00001.png",
+      "size": 657938
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00002.png",
+      "size": 628328
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00003.png",
+      "size": 583814
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00004.png",
+      "size": 555292
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00005.png",
+      "size": 543467
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00006.png",
+      "size": 622510
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00007.png",
+      "size": 646329
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00008.png",
+      "size": 615680
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00009.png",
+      "size": 658048
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00010.png",
+      "size": 682819
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00011.png",
+      "size": 506851
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00012.png",
+      "size": 687608
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00013.png",
+      "size": 663232
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00014.png",
+      "size": 615994
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00015.png",
+      "size": 613415
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00016.png",
+      "size": 616767
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00017.png",
+      "size": 553852
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00018.png",
+      "size": 644026
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00019.png",
+      "size": 629546
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00020.png",
+      "size": 612969
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00021.png",
+      "size": 594411
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00022.png",
+      "size": 632199
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00023.png",
+      "size": 591064
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00024.png",
+      "size": 586338
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00025.png",
+      "size": 609227
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00026.png",
+      "size": 595538
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00027.png",
+      "size": 630855
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00028.png",
+      "size": 622480
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/gt/00029.png",
+      "size": 603237
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00000.png",
+      "size": 534452
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00001.png",
+      "size": 579487
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00002.png",
+      "size": 559723
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00003.png",
+      "size": 569947
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00004.png",
+      "size": 466939
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00005.png",
+      "size": 481618
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00006.png",
+      "size": 590002
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00007.png",
+      "size": 581998
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00008.png",
+      "size": 450854
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00009.png",
+      "size": 587126
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00010.png",
+      "size": 620564
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00011.png",
+      "size": 361446
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00012.png",
+      "size": 638961
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00013.png",
+      "size": 585474
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00014.png",
+      "size": 496402
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00015.png",
+      "size": 557524
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00016.png",
+      "size": 540656
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00017.png",
+      "size": 510538
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00018.png",
+      "size": 570938
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00019.png",
+      "size": 544687
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00020.png",
+      "size": 528339
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00021.png",
+      "size": 476151
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00022.png",
+      "size": 561452
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00023.png",
+      "size": 515668
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00024.png",
+      "size": 496024
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00025.png",
+      "size": 536142
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00026.png",
+      "size": 505249
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00027.png",
+      "size": 556011
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00028.png",
+      "size": 551680
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/test/ours_30000/renders/00029.png",
+      "size": 534069
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00000.png",
+      "size": 611047
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00001.png",
+      "size": 637758
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00002.png",
+      "size": 625747
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00003.png",
+      "size": 603703
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00004.png",
+      "size": 641392
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00005.png",
+      "size": 629307
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00006.png",
+      "size": 654364
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00007.png",
+      "size": 664720
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00008.png",
+      "size": 656357
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00009.png",
+      "size": 640114
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00010.png",
+      "size": 641156
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00011.png",
+      "size": 631805
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00012.png",
+      "size": 645235
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00013.png",
+      "size": 632096
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00014.png",
+      "size": 606516
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00015.png",
+      "size": 599911
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00016.png",
+      "size": 617546
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00017.png",
+      "size": 606898
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00018.png",
+      "size": 649949
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00019.png",
+      "size": 657517
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00020.png",
+      "size": 665972
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00021.png",
+      "size": 617400
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00022.png",
+      "size": 606214
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00023.png",
+      "size": 584182
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00024.png",
+      "size": 574772
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00025.png",
+      "size": 563942
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00026.png",
+      "size": 556741
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00027.png",
+      "size": 551106
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00028.png",
+      "size": 566563
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00029.png",
+      "size": 595315
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00030.png",
+      "size": 619978
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00031.png",
+      "size": 581941
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00032.png",
+      "size": 611009
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00033.png",
+      "size": 614536
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00034.png",
+      "size": 587114
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00035.png",
+      "size": 629318
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00036.png",
+      "size": 636948
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00037.png",
+      "size": 619790
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00038.png",
+      "size": 682868
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00039.png",
+      "size": 677921
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00040.png",
+      "size": 666186
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00041.png",
+      "size": 667336
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00042.png",
+      "size": 639590
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00043.png",
+      "size": 612845
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00044.png",
+      "size": 611106
+    },
+    {
+      "path": "/root/autodl-tmp/hw3_task1_3dgs_aigc/outputs/3dgs/counter_iter30000_r4/train/ours_30000/gt/00045.png",
+      "size": 615743
+    }
+  ],
+  "note": "Blender executable not found; report will use generated renders/videos/PLY/OBJ if present."
+}

@@ -1,0 +1,5 @@
+split_label,split_mode,proxy_source_split,episode_start,episode_end,num_episodes,num_frames,unique_tasks,note
+A,episode_order_thirds,True,0,6318,6319,379231,389,episode-order third of the public ABC LeRobot dataset; used because raw A/B/C labels are not exposed in this converted dataset
+B,episode_order_thirds,True,6319,12637,6319,377837,389,episode-order third of the public ABC LeRobot dataset; used because raw A/B/C labels are not exposed in this converted dataset
+C,episode_order_thirds,True,12638,18956,6319,379468,389,episode-order third of the public ABC LeRobot dataset; used because raw A/B/C labels are not exposed in this converted dataset
+ABC,episode_order_thirds,True,0,18956,18957,1136536,389,episode-order third of the public ABC LeRobot dataset; used because raw A/B/C labels are not exposed in this converted dataset

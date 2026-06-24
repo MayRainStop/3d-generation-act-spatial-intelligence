@@ -1,0 +1,9 @@
+# Bootstrap requirements for the Task 1 AIGC helper scripts.
+# This file is for local project utilities only, not full 3DGS/threestudio installs.
+# External projects such as COLMAP, threestudio and gaussian-splatting
+# must still be installed separately in their own recommended way.
+
+numpy>=1.24
+Pillow>=10.0
+PyYAML>=6.0
+tqdm>=4.66

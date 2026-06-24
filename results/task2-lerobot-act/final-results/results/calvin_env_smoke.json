@@ -1,0 +1,56 @@
+{
+  "dataset_path": "/home/zyx2001/hw3_task2_lerobot_act/data/calvin_raw/datasets/calvin_debug_dataset",
+  "validation_path": "/home/zyx2001/hw3_task2_lerobot_act/data/calvin_raw/datasets/calvin_debug_dataset/validation",
+  "obs": {
+    "rgb_obs": "<class 'dict'>",
+    "depth_obs": "<class 'dict'>",
+    "robot_obs": {
+      "shape": [
+        15
+      ],
+      "dtype": "float64",
+      "min": -2.34205014,
+      "max": 3.090454112975712
+    },
+    "scene_obs": {
+      "shape": [
+        24
+      ],
+      "dtype": "float64",
+      "min": -0.4857705158280977,
+      "max": 2.2456372993781644
+    }
+  },
+  "next_obs": {
+    "rgb_obs": "<class 'dict'>",
+    "depth_obs": "<class 'dict'>",
+    "robot_obs": {
+      "shape": [
+        15
+      ],
+      "dtype": "float64",
+      "min": -2.342050137154223,
+      "max": 3.0904597641953355
+    },
+    "scene_obs": {
+      "shape": [
+        24
+      ],
+      "dtype": "float64",
+      "min": -0.5009353205870358,
+      "max": 2.357250099020397
+    }
+  },
+  "reward": 0.0,
+  "done": false,
+  "info_keys": [
+    "robot_info",
+    "scene_info"
+  ],
+  "render_shape": [
+    200,
+    200,
+    3
+  ],
+  "render_dtype": "uint8"
+}

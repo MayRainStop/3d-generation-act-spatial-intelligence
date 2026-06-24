@@ -1,0 +1,146 @@
+{
+  "updated_at": "2026-06-04T20:33:15+08:00",
+  "repo_id": "fywang/calvin-task-ABC-D-lerobot",
+  "dataset_root": "/home/zyx2001/.cache/huggingface/lerobot/fywang/calvin-task-ABC-D-lerobot",
+  "metadata_root": "/home/zyx2001/hw3_task2_lerobot_act/data/hf_meta/fywang__calvin-task-ABC-D-lerobot/meta",
+  "features": [
+    "action",
+    "episode_index",
+    "frame_index",
+    "index",
+    "observation.images.top",
+    "observation.images.wrist",
+    "observation.state",
+    "task_index",
+    "timestamp"
+  ],
+  "splits_in_info": {
+    "train": "0:18957"
+  },
+  "total_episodes": 18957,
+  "total_frames": 1136536,
+  "explicit_environment_label_present": false,
+  "ordered_equal_thirds": true,
+  "audit_interpretation": "The converted LeRobot ABC-D dataset exposes one train split without an explicit environment label. Because it has exactly three equal ordered thirds, the first third is used as the requirement-aligned A-only baseline and the full split as ABC-mixed.",
+  "split_rows": [
+    {
+      "split_label": "A_inferred",
+      "episode_start": 0,
+      "episode_end": 6318,
+      "num_episodes": 6319,
+      "num_frames": 379231,
+      "unique_tasks": 389,
+      "source": "ordered thirds of public LeRobot ABC-D train split",
+      "explicit_environment_label_present": false
+    },
+    {
+      "split_label": "B_inferred",
+      "episode_start": 6319,
+      "episode_end": 12637,
+      "num_episodes": 6319,
+      "num_frames": 377837,
+      "unique_tasks": 389,
+      "source": "ordered thirds of public LeRobot ABC-D train split",
+      "explicit_environment_label_present": false
+    },
+    {
+      "split_label": "C_inferred",
+      "episode_start": 12638,
+      "episode_end": 18956,
+      "num_episodes": 6319,
+      "num_frames": 379468,
+      "unique_tasks": 389,
+      "source": "ordered thirds of public LeRobot ABC-D train split",
+      "explicit_environment_label_present": false
+    },
+    {
+      "split_label": "ABC_mixed",
+      "episode_start": 0,
+      "episode_end": 18956,
+      "num_episodes": 18957,
+      "num_frames": 1136536,
+      "unique_tasks": 389,
+      "source": "ordered thirds of public LeRobot ABC-D train split",
+      "explicit_environment_label_present": false
+    }
+  ],
+  "requirement_aligned_eval": [
+    {
+      "label": "A-only inferred first ordered third",
+      "run_id": "calvin_act_a_proxy_taskcond_seed0_onehot_D_eval",
+      "training_data": "A inferred from first 6319 ordered ABC episodes",
+      "checkpoint": "outputs/20260604_final/act_a_proxy_taskcond_seed0/checkpoints/050000/pretrained_model",
+      "steps": 50000,
+      "chunk_size": 50,
+      "condition_type": "onehot",
+      "avg_len": 0.613,
+      "sr1": 0.402,
+      "sr2": 0.152,
+      "sr3": 0.049,
+      "sr4": 0.01,
+      "sr5": 0.0,
+      "note": "Primary baseline required by PDF; no explicit env column in converted data."
+    },
+    {
+      "label": "ABC-mixed same hyperparameters",
+      "run_id": "calvin_taskcond_D_eval",
+      "training_data": "all ABC mixed episodes",
+      "checkpoint": "outputs/20260601_task_conditioned/act_abc_taskcond_seed0/checkpoints/050000/pretrained_model",
+      "steps": 50000,
+      "chunk_size": 50,
+      "condition_type": "unknown",
+      "avg_len": 0.671,
+      "sr1": 0.411,
+      "sr2": 0.167,
+      "sr3": 0.06,
+      "sr4": 0.027,
+      "sr5": 0.006,
+      "note": "Primary multi-environment model required by PDF."
+    },
+    {
+      "label": "ABC-mixed extended training",
+      "run_id": "calvin_act_abc_taskcond_100k_seed0_onehot_D_eval",
+      "training_data": "all ABC mixed episodes",
+      "checkpoint": "outputs/20260603_extensions/act_abc_taskcond_100k_seed0/checkpoints/100000/pretrained_model",
+      "steps": 100000,
+      "chunk_size": 50,
+      "condition_type": "onehot",
+      "avg_len": 0.997,
+      "sr1": 0.566,
+      "sr2": 0.26,
+      "sr3": 0.111,
+      "sr4": 0.041,
+      "sr5": 0.019,
+      "note": "Extra extension showing improvement with longer training."
+    }
+  ],
+  "contact_sheet": {
+    "status": "created",
+    "path": "/home/zyx2001/hw3_task2_lerobot_act/results/report-figures/task2_ordered_abc_split_samples.jpg",
+    "samples": [
+      {
+        "label": "A_inferred",
+        "episode_index": 0
+      },
+      {
+        "label": "B_inferred",
+        "episode_index": 6319
+      },
+      {
+        "label": "C_inferred",
+        "episode_index": 12638
+      },
+      {
+        "label": "ABC_mixed",
+        "episode_index": 9478
+      }
+    ]
+  },
+  "package": {
+    "path": null,
+    "size": null,
+    "sha256": null,
+    "note": "Historical compressed package copies were removed during server cleanup; extracted results remain in the project tree."
+  },
+  "audit_pass": true
+}

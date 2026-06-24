@@ -1,0 +1,42 @@
+{
+  "source": "TA-provided official split dataset xiaoma26/calvin-lerobot",
+  "purpose": "replace proxy A/B/C split with explicit splitA/splitB/splitC/splitD scenes",
+  "rows": [
+    {
+      "split": "A",
+      "scene": "A",
+      "codebase_version": "v2.1",
+      "total_episodes": 6089,
+      "total_frames": 366693,
+      "total_videos": 0,
+      "fps": 10
+    },
+    {
+      "split": "B",
+      "scene": "B",
+      "codebase_version": "v2.1",
+      "total_episodes": 6115,
+      "total_frames": 367096,
+      "total_videos": 0,
+      "fps": 10
+    },
+    {
+      "split": "C",
+      "scene": "C",
+      "codebase_version": "v2.1",
+      "total_episodes": 5666,
+      "total_frames": 337954,
+      "total_videos": 0,
+      "fps": 10
+    },
+    {
+      "split": "D",
+      "scene": "D",
+      "codebase_version": "v2.1",
+      "total_episodes": 5124,
+      "total_frames": 308918,
+      "total_videos": 0,
+      "fps": 10
+    }
+  ]
+}

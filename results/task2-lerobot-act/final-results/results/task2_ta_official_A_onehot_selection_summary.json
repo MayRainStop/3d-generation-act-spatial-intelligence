@@ -1,0 +1,19 @@
+{
+  "source": "TA-provided official split dataset: xiaoma26/calvin-lerobot",
+  "labels": [
+    "A"
+  ],
+  "condition_type": "onehot",
+  "repo_ids": [
+    "xiaoma26/calvin_lerobot_splitA"
+  ],
+  "roots": [
+    "/home/zyx2001/hw3_task2_lerobot_act/data/xiaoma_calvin_lerobot_v30/xiaoma26/calvin_lerobot_splitA"
+  ],
+  "num_frames": 366693,
+  "num_episodes": 6089,
+  "num_tasks": 389,
+  "state_shape_before_conditioning": [
+    15
+  ]
+}

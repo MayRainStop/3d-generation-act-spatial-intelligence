@@ -1,0 +1,20 @@
+{
+  "task_ABCD_D/training/scene_info.npy": {
+    "calvin_scene_A": [
+      1802438,
+      2406143
+    ],
+    "calvin_scene_B": [
+      611099,
+      1210008
+    ],
+    "calvin_scene_C": [
+      1210009,
+      1802437
+    ],
+    "calvin_scene_D": [
+      0,
+      611098
+    ]
+  }
+}

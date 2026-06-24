@@ -1,0 +1,848 @@
+run,step,loss,source_log
+TA splitA A-only 100k,200,7.066,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,400,3.271,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,600,2.851,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,800,2.526,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,1000,2.081,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,2000,1.553,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,3000,1.173,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,4000,0.908,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,5000,0.722,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,6000,0.606,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,7000,0.528,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,8000,0.482,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,9000,0.444,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,10000,0.43,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,11000,0.387,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,12000,0.38,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,13000,0.359,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,14000,0.346,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,15000,0.338,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,16000,0.336,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,17000,0.334,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,18000,0.333,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,19000,0.327,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,20000,0.318,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,21000,0.307,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,22000,0.293,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,23000,0.304,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,24000,0.29,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,25000,0.296,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,26000,0.284,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,27000,0.283,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,28000,0.294,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,29000,0.299,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,30000,0.284,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,31000,0.293,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,32000,0.274,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,33000,0.275,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,34000,0.26,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,35000,0.252,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,36000,0.266,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,37000,0.267,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,38000,0.266,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,39000,0.273,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,40000,0.266,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,41000,0.254,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,42000,0.267,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,43000,0.259,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,44000,0.261,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,45000,0.252,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,46000,0.255,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,47000,0.253,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,48000,0.26,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,49000,0.259,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,50000,0.247,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,51000,0.26,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,52000,0.265,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,53000,0.239,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,54000,0.249,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,55000,0.25,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,56000,0.248,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,57000,0.247,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,58000,0.242,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,59000,0.24,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,60000,0.249,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,61000,0.235,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,62000,0.246,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,63000,0.254,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,64000,0.24,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,65000,0.231,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,66000,0.235,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,67000,0.232,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,68000,0.242,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,69000,0.23,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,70000,0.235,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,71000,0.238,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,72000,0.234,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,73000,0.227,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,74000,0.232,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,75000,0.23,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,76000,0.229,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,77000,0.221,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,78000,0.231,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,79000,0.236,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,80000,0.234,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,81000,0.233,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,82000,0.226,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,83000,0.229,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,84000,0.225,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,85000,0.232,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,86000,0.226,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,87000,0.236,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,88000,0.218,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,89000,0.226,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,90000,0.218,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,91000,0.221,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,92000,0.228,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,93000,0.217,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,94000,0.216,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,95000,0.22,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,96000,0.215,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,97000,0.211,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,98000,0.215,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,99000,0.229,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitA A-only 100k,100000,0.214,logs-full\act_ta_a_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,200,6.291,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,400,2.904,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,600,2.51,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,800,2.271,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,1000,1.759,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,2000,1.21,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,3000,0.87,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,4000,0.652,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,5000,0.538,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,6000,0.458,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,7000,0.429,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,8000,0.387,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,9000,0.381,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,10000,0.363,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,11000,0.34,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,12000,0.345,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,13000,0.32,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,14000,0.321,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,15000,0.324,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,16000,0.314,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,17000,0.31,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,18000,0.299,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,19000,0.295,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,20000,0.295,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,21000,0.283,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,22000,0.289,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,23000,0.275,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,24000,0.285,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,25000,0.273,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,26000,0.272,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,27000,0.276,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,28000,0.277,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,29000,0.275,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,30000,0.274,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,31000,0.274,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,32000,0.279,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,33000,0.273,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,34000,0.271,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,35000,0.272,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,36000,0.273,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,37000,0.271,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,38000,0.272,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,39000,0.276,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,40000,0.267,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,41000,0.262,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,42000,0.274,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,43000,0.267,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,44000,0.255,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,45000,0.261,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,46000,0.257,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,47000,0.256,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,48000,0.264,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,49000,0.253,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,50000,0.255,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,51000,0.263,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,52000,0.25,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,53000,0.255,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,54000,0.257,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,55000,0.258,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,56000,0.253,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,57000,0.249,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,58000,0.258,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,59000,0.258,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,60000,0.249,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,61000,0.258,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,62000,0.259,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,63000,0.252,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,64000,0.263,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,65000,0.255,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,66000,0.249,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,67000,0.254,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,68000,0.249,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,69000,0.244,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,70000,0.254,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,71000,0.247,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,72000,0.249,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,73000,0.241,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,74000,0.236,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,75000,0.25,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,76000,0.243,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,77000,0.244,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,78000,0.238,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,79000,0.236,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,80000,0.246,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,81000,0.246,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,82000,0.25,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,83000,0.244,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,84000,0.24,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,85000,0.242,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,86000,0.249,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,87000,0.24,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,88000,0.241,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,89000,0.24,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,90000,0.237,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,91000,0.233,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,92000,0.23,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,93000,0.238,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,94000,0.242,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,95000,0.233,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,96000,0.234,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,97000,0.235,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,98000,0.241,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,99000,0.236,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC one-hot 100k,100000,0.236,logs-full\act_ta_abc_taskcond_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,200,6.25,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,400,2.847,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,600,2.447,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,800,2.214,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,1000,1.699,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,2000,1.164,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,3000,0.825,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,4000,0.622,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,5000,0.504,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,6000,0.437,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,7000,0.404,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,8000,0.383,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,9000,0.357,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,10000,0.347,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,11000,0.331,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,12000,0.325,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,13000,0.307,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,14000,0.306,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,15000,0.301,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,16000,0.293,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,17000,0.291,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,18000,0.288,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,19000,0.296,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,20000,0.276,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,21000,0.274,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,22000,0.279,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,23000,0.275,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,24000,0.282,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,25000,0.282,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,26000,0.267,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,27000,0.264,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,28000,0.273,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,29000,0.273,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,30000,0.264,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,31000,0.266,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,32000,0.264,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,33000,0.274,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,34000,0.259,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,35000,0.266,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,36000,0.263,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,37000,0.262,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,38000,0.257,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,39000,0.255,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,40000,0.268,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,41000,0.262,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,42000,0.26,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,43000,0.262,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,44000,0.258,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,45000,0.26,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,46000,0.258,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,47000,0.258,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,48000,0.253,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,49000,0.252,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,50000,0.26,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,51000,0.255,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,52000,0.259,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,53000,0.256,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,54000,0.257,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,55000,0.255,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,56000,0.254,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,57000,0.251,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,58000,0.254,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,59000,0.248,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,60000,0.254,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,61000,0.248,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,62000,0.25,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,63000,0.246,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,64000,0.242,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,65000,0.25,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,66000,0.246,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,67000,0.243,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,68000,0.24,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,69000,0.25,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,70000,0.246,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,71000,0.239,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,72000,0.242,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,73000,0.246,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,74000,0.24,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,75000,0.234,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,76000,0.24,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,77000,0.242,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,78000,0.241,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,79000,0.241,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,80000,0.239,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,81000,0.239,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,82000,0.236,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,83000,0.237,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,84000,0.231,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,85000,0.235,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,86000,0.234,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,87000,0.235,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,88000,0.232,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,89000,0.236,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,90000,0.234,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,91000,0.234,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,92000,0.241,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,93000,0.232,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,94000,0.229,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,95000,0.235,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,96000,0.228,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,97000,0.234,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,98000,0.225,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,99000,0.23,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC SBERT 100k,100000,0.228,logs-full\act_ta_abc_lang_sbert_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,200,6.021,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,400,2.67,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,600,2.284,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,800,2.041,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,1000,1.565,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,2000,1.03,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,3000,0.696,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,4000,0.493,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,5000,0.373,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,6000,0.312,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,7000,0.273,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,8000,0.249,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,9000,0.23,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,10000,0.21,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,11000,0.197,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,12000,0.196,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,13000,0.192,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,14000,0.183,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,15000,0.176,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,16000,0.172,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,17000,0.167,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,18000,0.168,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,19000,0.161,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,20000,0.16,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,21000,0.153,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,22000,0.154,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,23000,0.149,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,24000,0.148,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,25000,0.154,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,26000,0.148,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,27000,0.152,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,28000,0.149,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,29000,0.15,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,30000,0.147,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,31000,0.149,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,32000,0.146,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,33000,0.142,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,34000,0.142,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,35000,0.144,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,36000,0.146,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,37000,0.143,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,38000,0.145,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,39000,0.142,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,40000,0.141,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,41000,0.142,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,42000,0.143,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,43000,0.142,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,44000,0.142,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,45000,0.14,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,46000,0.144,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,47000,0.141,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,48000,0.141,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,49000,0.142,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,50000,0.14,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,51000,0.138,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,52000,0.141,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,53000,0.133,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,54000,0.135,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,55000,0.136,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,56000,0.131,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,57000,0.134,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,58000,0.135,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,59000,0.137,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,60000,0.135,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,61000,0.135,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,62000,0.132,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,63000,0.136,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,64000,0.135,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,65000,0.141,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,66000,0.136,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,67000,0.132,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,68000,0.134,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,69000,0.132,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,70000,0.133,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,71000,0.129,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,72000,0.133,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,73000,0.13,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,74000,0.131,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,75000,0.133,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,76000,0.133,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,77000,0.128,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,78000,0.126,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,79000,0.128,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,80000,0.129,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,81000,0.133,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,82000,0.131,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,83000,0.129,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,84000,0.127,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,85000,0.131,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,86000,0.128,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,87000,0.131,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,88000,0.128,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,89000,0.132,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,90000,0.131,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,91000,0.125,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,92000,0.129,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,93000,0.126,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,94000,0.127,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,95000,0.125,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,96000,0.129,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,97000,0.125,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,98000,0.126,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,99000,0.123,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+TA splitABC chunk100 100k,100000,0.125,logs-full\act_ta_abc_taskcond_chunk100_100k_seed0.ta_official.train.log
+Public ABC high-score,100000,0.239,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,101000,0.234,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,102000,0.237,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,103000,0.23,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,104000,0.237,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,105000,0.238,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,106000,0.236,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,107000,0.231,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,108000,0.236,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,109000,0.23,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,110000,0.229,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,111000,0.228,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,112000,0.225,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,113000,0.226,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,114000,0.232,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,115000,0.234,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,116000,0.229,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,117000,0.231,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,118000,0.228,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,119000,0.223,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,120000,0.238,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,121000,0.234,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,122000,0.229,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,123000,0.223,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,124000,0.233,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,125000,0.229,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,126000,0.229,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,127000,0.222,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,128000,0.226,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,129000,0.229,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,130000,0.228,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,131000,0.224,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,132000,0.23,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,133000,0.228,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,134000,0.223,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,135000,0.23,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,136000,0.226,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,137000,0.232,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,138000,0.229,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,139000,0.214,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,140000,0.22,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,141000,0.229,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,142000,0.225,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,143000,0.225,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,144000,0.225,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,145000,0.218,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,146000,0.22,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,147000,0.226,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,148000,0.218,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,149000,0.224,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,150000,0.229,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,151000,0.226,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,152000,0.222,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,153000,0.216,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,154000,0.218,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,155000,0.218,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,156000,0.22,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,157000,0.221,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,158000,0.224,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,159000,0.217,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,160000,0.218,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,161000,0.225,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,162000,0.217,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,163000,0.223,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,164000,0.22,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,165000,0.209,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,166000,0.223,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,167000,0.214,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,168000,0.212,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,169000,0.217,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,170000,0.218,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,171000,0.208,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,172000,0.219,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,173000,0.214,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,174000,0.215,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,175000,0.216,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,176000,0.218,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,177000,0.214,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,178000,0.213,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,179000,0.214,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,180000,0.214,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,181000,0.213,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,182000,0.215,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,183000,0.213,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,184000,0.208,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,185000,0.214,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,186000,0.217,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,187000,0.212,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,188000,0.217,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,189000,0.216,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,190000,0.217,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,191000,0.209,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,192000,0.206,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,193000,0.214,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,194000,0.21,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,195000,0.208,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,196000,0.209,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,197000,0.207,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,198000,0.206,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,199000,0.212,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+Public ABC high-score,200000,0.207,logs-full\act_abc_taskcond_200k_seed0.high_score.train.log
+TA splitA A-only seed0 160k,100000,0.21,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,101000,0.212,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,102000,0.213,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,103000,0.212,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,104000,0.214,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,105000,0.208,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,106000,0.204,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,107000,0.203,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,108000,0.202,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,109000,0.205,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,110000,0.198,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,111000,0.205,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,112000,0.202,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,113000,0.205,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,114000,0.202,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,115000,0.202,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,116000,0.204,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,117000,0.199,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,118000,0.202,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,119000,0.195,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,120000,0.2,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,121000,0.194,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,122000,0.194,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,123000,0.203,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,124000,0.194,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,125000,0.198,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,126000,0.191,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,127000,0.19,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,128000,0.2,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,129000,0.192,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,130000,0.193,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,131000,0.188,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,132000,0.192,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,133000,0.186,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,134000,0.191,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,135000,0.189,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,136000,0.186,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,137000,0.184,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,138000,0.191,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,139000,0.19,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,140000,0.187,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,141000,0.182,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,142000,0.191,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,143000,0.178,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,144000,0.185,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,145000,0.186,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,146000,0.191,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,147000,0.182,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,148000,0.179,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,149000,0.181,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,150000,0.18,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,151000,0.177,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,152000,0.174,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,153000,0.175,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,154000,0.184,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,155000,0.186,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,156000,0.178,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,157000,0.177,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,158000,0.179,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,159000,0.177,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed0 160k,160000,0.179,logs\act_ta_a_taskcond_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,100000,0.231,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,101000,0.229,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,102000,0.234,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,103000,0.231,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,104000,0.232,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,105000,0.229,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,106000,0.226,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,107000,0.223,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,108000,0.222,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,109000,0.228,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,110000,0.226,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,111000,0.221,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,112000,0.221,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,113000,0.223,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,114000,0.22,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,115000,0.227,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,116000,0.225,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,117000,0.223,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,118000,0.223,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,119000,0.226,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,120000,0.226,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,121000,0.22,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,122000,0.222,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,123000,0.221,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,124000,0.218,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,125000,0.214,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,126000,0.226,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,127000,0.219,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,128000,0.221,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,129000,0.222,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,130000,0.223,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,131000,0.211,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,132000,0.217,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,133000,0.21,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,134000,0.219,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,135000,0.225,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,136000,0.21,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,137000,0.217,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,138000,0.223,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,139000,0.217,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,140000,0.211,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,141000,0.217,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,142000,0.218,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,143000,0.218,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,144000,0.217,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,145000,0.209,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,146000,0.214,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,147000,0.213,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,148000,0.207,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,149000,0.22,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,150000,0.218,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,151000,0.215,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,152000,0.209,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,153000,0.21,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,154000,0.213,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,155000,0.214,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,156000,0.212,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,157000,0.215,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,158000,0.214,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,159000,0.212,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitABC SBERT seed0 160k,160000,0.212,logs\act_ta_abc_lang_sbert_100k_seed0.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,200,7.011,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,400,2.894,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,600,2.451,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,800,2.212,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,1000,1.759,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,2000,1.207,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,3000,0.856,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,4000,0.643,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,5000,0.508,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,6000,0.452,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,7000,0.403,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,8000,0.377,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,9000,0.355,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,10000,0.338,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,11000,0.328,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,12000,0.314,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,13000,0.307,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,14000,0.292,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,15000,0.294,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,16000,0.283,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,17000,0.277,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,18000,0.281,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,19000,0.27,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,20000,0.269,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,21000,0.263,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,22000,0.269,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,23000,0.27,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,24000,0.254,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,25000,0.255,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,26000,0.264,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,27000,0.261,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,28000,0.249,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,29000,0.25,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,30000,0.246,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,31000,0.25,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,32000,0.242,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,33000,0.249,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,34000,0.242,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,35000,0.245,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,36000,0.24,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,37000,0.235,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,38000,0.238,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,39000,0.246,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,40000,0.234,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,41000,0.239,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,42000,0.243,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,43000,0.237,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,44000,0.234,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,45000,0.229,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,46000,0.236,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,47000,0.228,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,48000,0.23,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,49000,0.222,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,50000,0.228,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,51000,0.223,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,52000,0.22,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,53000,0.222,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,54000,0.222,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,55000,0.218,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,56000,0.225,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,57000,0.215,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,58000,0.223,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,59000,0.222,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,60000,0.211,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,61000,0.223,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,62000,0.223,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,63000,0.215,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,64000,0.211,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,65000,0.211,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,66000,0.217,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,67000,0.205,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,68000,0.203,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,69000,0.216,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,70000,0.209,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,71000,0.207,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,72000,0.206,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,73000,0.205,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,74000,0.207,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,75000,0.2,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,76000,0.208,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,77000,0.203,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,78000,0.206,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,79000,0.204,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,80000,0.206,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,81000,0.202,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,82000,0.206,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,83000,0.203,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,84000,0.205,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,85000,0.201,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,86000,0.2,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,87000,0.201,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,88000,0.202,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,89000,0.199,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,90000,0.194,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,91000,0.193,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,92000,0.193,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,93000,0.192,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,94000,0.187,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,95000,0.193,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,96000,0.19,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,97000,0.191,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,98000,0.2,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,99000,0.196,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitA A-only seed1 100k,100000,0.193,logs\act_ta_a_taskcond_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,200,6.593,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,400,2.815,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,600,2.403,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,800,2.178,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,1000,1.688,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,2000,1.125,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,3000,0.785,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,4000,0.599,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,5000,0.485,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,6000,0.434,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,7000,0.397,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,8000,0.376,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,9000,0.365,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,10000,0.355,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,11000,0.333,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,12000,0.317,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,13000,0.316,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,14000,0.312,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,15000,0.309,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,16000,0.299,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,17000,0.3,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,18000,0.291,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,19000,0.29,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,20000,0.287,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,21000,0.279,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,22000,0.287,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,23000,0.285,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,24000,0.273,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,25000,0.275,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,26000,0.276,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,27000,0.267,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,28000,0.274,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,29000,0.267,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,30000,0.28,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,31000,0.272,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,32000,0.263,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,33000,0.262,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,34000,0.266,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,35000,0.262,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,36000,0.262,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,37000,0.261,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,38000,0.262,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,39000,0.264,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,40000,0.265,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,41000,0.258,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,42000,0.265,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,43000,0.258,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,44000,0.259,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,45000,0.26,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,46000,0.253,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,47000,0.263,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,48000,0.258,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,49000,0.25,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,50000,0.263,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,51000,0.256,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,52000,0.258,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,53000,0.248,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,54000,0.255,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,55000,0.245,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,56000,0.255,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,57000,0.248,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,58000,0.248,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,59000,0.248,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,60000,0.247,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,61000,0.254,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,62000,0.25,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,63000,0.24,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,64000,0.251,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,65000,0.252,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,66000,0.249,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,67000,0.248,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,68000,0.258,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,69000,0.247,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,70000,0.244,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,71000,0.242,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,72000,0.244,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,73000,0.247,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,74000,0.251,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,75000,0.245,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,76000,0.238,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,77000,0.245,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,78000,0.242,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,79000,0.241,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,80000,0.242,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,81000,0.24,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,82000,0.235,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,83000,0.24,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,84000,0.24,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,85000,0.231,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,86000,0.236,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,87000,0.241,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,88000,0.241,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,89000,0.235,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,90000,0.24,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,91000,0.237,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,92000,0.231,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,93000,0.236,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,94000,0.233,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,95000,0.238,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,96000,0.236,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,97000,0.23,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,98000,0.229,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,99000,0.227,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
+TA splitABC SBERT seed1 100k,100000,0.236,logs\act_ta_abc_lang_sbert_100k_seed1.ta_sweep_seed1.train.log
