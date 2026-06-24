@@ -1,0 +1,17 @@
+data/
+outputs/
+results/
+logs/
+logs-full/
+model-weights/
+model_weights/
+.cache/
+*.pyc
+__pycache__/
+*.log
+*.tmp
+*.zip
+*.tar
+*.tar.gz
+wandb/
+swanlog/

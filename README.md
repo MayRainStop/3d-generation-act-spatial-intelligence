@@ -40,18 +40,24 @@
 |   |-- report_assets/
 |   `-- experiment1_3d_assets/     # Task 1 report notes and lightweight assets
 |-- tasks/
-|   `-- task1_3dgs_aigc/
+|   |-- task1_3dgs_aigc/
+|   |   |-- README.md
+|   |   |-- object_a_reconstruction/
+|   |   |   |-- notebooks/
+|   |   |   |-- data/                  # local only: phone images + COLMAP workspace
+|   |   |   `-- outputs/               # local only: object A 3DGS outputs
+|   |   |-- blender_fusion/
+|   |   |   |-- notebooks/
+|   |   |   |-- scripts/
+|   |   |   |-- assets/input-assets/    # local only: meshes/textures for fusion
+|   |   |   `-- outputs/               # local only: rendered walkthrough videos
+|   |   `-- aigc_pipeline_records/      # Task 1 helper scripts and prompt records
+|   `-- task2_lerobot_act/
 |       |-- README.md
-|       |-- object_a_reconstruction/
-|       |   |-- notebooks/
-|       |   |-- data/                  # local only: phone images + COLMAP workspace
-|       |   `-- outputs/               # local only: object A 3DGS outputs
-|       |-- blender_fusion/
-|           |-- notebooks/
-|           |-- scripts/
-|           |-- assets/input-assets/    # local only: meshes/textures for fusion
-|           `-- outputs/               # local only: rendered walkthrough videos
-|       `-- aigc_pipeline_records/         # Task 1 helper scripts and prompt records
+|       |-- environment.yml
+|       |-- configs/                    # Task 2 run table
+|       |-- scripts/                    # Task 2 training/evaluation/retrieval scripts
+|       `-- tests/                      # lightweight command and parsing tests
 |-- results/
 |   |-- task1-3dgs-aigc/
 |   `-- task2-lerobot-act/
@@ -79,12 +85,13 @@ conda activate hw3_task2_lerobot
 python -m pip install -r requirements.txt
 ```
 
-The full training environments are heavier than the local report package. The archived scripts and environment snapshots are under:
+The full training environments are heavier than the local report package. The task code and runnable entrypoints are under:
 
 ```text
 results/task1-3dgs-aigc/main-results/scripts/
-results/task2-lerobot-act/final-results/scripts/
-results/task2-lerobot-act/final-results/workspace-root-snapshot/
+tasks/task2_lerobot_act/scripts/
+tasks/task2_lerobot_act/configs/
+tasks/task2_lerobot_act/tests/
 ```
 
 Full third-party framework source trees such as 3D Gaussian Splatting and threestudio are intentionally not vendored in the final folder. Clone or install them separately when rerunning Task 1 training.
@@ -163,26 +170,27 @@ Task 2 evaluates ACT policies on CALVIN D zero-shot transfer. The final report t
 Task 2 local result package:
 
 ```text
+tasks/task2_lerobot_act/
 results/task2-lerobot-act/final-results/
 results/task2-lerobot-act/final-results/model-weights/
 ```
 
 ### Task 2 Reproduction Commands
 
-The commands below are for the original Linux/CUDA server workspace. They expect raw CALVIN data and checkpoints to be stored outside Git. In the local submission package, the corresponding scripts are archived under `results/task2-lerobot-act/final-results/scripts/`.
+The commands below expect a Linux/CUDA workspace with raw CALVIN data and checkpoints stored outside Git. In this repository, the runnable Task 2 entrypoints are under `tasks/task2_lerobot_act/`; large `data/`, `outputs/`, checkpoints, logs, and videos are intentionally excluded from Git and provided through the Google Drive package.
 
 Prepare the Python environment:
 
 ```bash
-conda env create -f environment.yml
+conda env create -f tasks/task2_lerobot_act/environment.yml
 conda activate hw3_task2_lerobot
 python -m pip install -r requirements.txt
 ```
 
-Reproduce the course-provided split main chain from a server workspace such as `~/hw3_task2_lerobot_act`:
+Reproduce the course-provided split main chain:
 
 ```bash
-cd ~/hw3_task2_lerobot_act
+cd tasks/task2_lerobot_act
 export HF_ENDPOINT=${HF_ENDPOINT:-https://hf-mirror.com}
 export WANDB_MODE=offline
 bash scripts/44_run_task2_ta_official_split_chain.sh
@@ -193,7 +201,7 @@ This chain downloads `xiaoma26/calvin-lerobot` splitA/splitB/splitC/splitD, conv
 Run the optional checkpoint sweep and seed1 robustness chain:
 
 ```bash
-cd ~/hw3_task2_lerobot_act
+cd tasks/task2_lerobot_act
 export HF_ENDPOINT=${HF_ENDPOINT:-https://hf-mirror.com}
 export WANDB_MODE=offline
 bash scripts/46_run_task2_ta_sweep_seed1_chain.sh
@@ -204,7 +212,7 @@ This resumes or trains the seed/checkpoint extension runs and refreshes the swee
 Evaluate a specific trained checkpoint on CALVIN D:
 
 ```bash
-cd ~/hw3_task2_lerobot_act
+cd tasks/task2_lerobot_act
 bash scripts/45_run_ta_conditioned_eval.sh \
   sbert \
   act_ta_abc_lang_sbert_100k_seed1 \
@@ -231,4 +239,4 @@ python tools/plot_task2_loss_curves.py
 - `docs/report.tex` is the editable report source.
 - `README.md` documents layout, results, and reproduction commands.
 - Task 1 now includes scene 3DGS, AIGC generation, real object A reconstruction, and A/B/C Blender fusion.
-- Task 2 includes clean official split results, public high-score supplement, seed/checkpoint robustness, loss curves, and reproduction scripts.
+- Task 2 now has its own code workspace under `tasks/task2_lerobot_act/`, plus clean official split results, public high-score supplement, seed/checkpoint robustness, loss curves, and reproduction scripts.

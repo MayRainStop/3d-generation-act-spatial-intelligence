@@ -89,6 +89,11 @@ pretrained_model/
 # instead of committed directly to GitHub.
 tasks/**/data/
 tasks/**/outputs/
+tasks/**/results/
+tasks/**/logs/
+tasks/**/logs-full/
+tasks/**/model-weights/
+tasks/**/model_weights/
 tasks/**/assets/input-assets/
 tasks/**/external/
 tasks/**/__pycache__/

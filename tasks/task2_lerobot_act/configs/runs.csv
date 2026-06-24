@@ -1,0 +1,20 @@
+run_id,dataset_repo,output_dir,chunk_size,n_action_steps,seed,batch_size,learning_rate,steps,priority,notes
+debug_smoke_seed0,fywang/calvin-debug-lerobot,outputs/20260529_acts/debug_smoke_seed0,10,10,0,4,0.0001,200,required,debug pipeline before long runs
+act_abc_to_d_seed0,fywang/calvin-task-ABC-D-lerobot,outputs/20260529_acts/act_abc_to_d_seed0,50,50,0,8,0.0001,50000,required,main zero-shot ABC to D model
+act_a_to_d_seed0,local/calvin_a_lerobot,outputs/20260529_acts/act_a_to_d_seed0,50,50,0,8,0.0001,30000,required,A source only
+act_b_to_d_seed0,local/calvin_b_lerobot,outputs/20260529_acts/act_b_to_d_seed0,50,50,0,8,0.0001,30000,required,B source only
+act_c_to_d_seed0,local/calvin_c_lerobot,outputs/20260529_acts/act_c_to_d_seed0,50,50,0,8,0.0001,30000,required,C source only
+act_abc_chunk10_seed0,fywang/calvin-task-ABC-D-lerobot,outputs/20260529_acts/act_abc_chunk10_seed0,10,10,0,8,0.0001,50000,recommended,chunk size ablation short horizon
+act_abc_chunk100_seed0,fywang/calvin-task-ABC-D-lerobot,outputs/20260529_acts/act_abc_chunk100_seed0,100,100,0,8,0.0001,50000,recommended,chunk size ablation long horizon
+taskcond_debug_smoke_seed0,fywang/calvin-debug-lerobot,outputs/20260601_task_conditioned/taskcond_debug_smoke_seed0,10,10,0,4,0.0001,200,required,task-conditioned wrapper smoke test
+act_abc_taskcond_seed0,fywang/calvin-task-ABC-D-lerobot,outputs/20260601_task_conditioned/act_abc_taskcond_seed0,50,50,0,8,0.0001,50000,required,task-index one-hot conditioned ACT for CALVIN D success rate
+act_abc_taskcond_chunk10_seed0,fywang/calvin-task-ABC-D-lerobot,outputs/20260603_extensions/act_abc_taskcond_chunk10_seed0,10,10,0,8,0.0001,50000,extension,task-conditioned chunk size 10 online eval ablation
+act_abc_taskcond_chunk100_seed0,fywang/calvin-task-ABC-D-lerobot,outputs/20260603_extensions/act_abc_taskcond_chunk100_seed0,100,100,0,8,0.0001,50000,extension,task-conditioned chunk size 100 online eval ablation
+act_abc_taskcond_seed1,fywang/calvin-task-ABC-D-lerobot,outputs/20260603_extensions/act_abc_taskcond_seed1,50,50,1,8,0.0001,50000,extension,task-conditioned chunk size 50 seed 1 variance check
+lang_sbert_debug_smoke_seed0,fywang/calvin-debug-lerobot,outputs/20260603_extensions/lang_sbert_debug_smoke_seed0,10,10,0,4,0.0001,200,extension,language embedding wrapper smoke test
+act_abc_lang_sbert_seed0,fywang/calvin-task-ABC-D-lerobot,outputs/20260603_extensions/act_abc_lang_sbert_seed0,50,50,0,8,0.0001,50000,extension,SentenceTransformer language-conditioned ACT ABC to D
+act_abc_taskcond_100k_seed0,fywang/calvin-task-ABC-D-lerobot,outputs/20260603_extensions/act_abc_taskcond_100k_seed0,50,50,0,8,0.0001,100000,extension,"task-index one-hot conditioned ACT, longer 100k training"
+act_abc_lang_hash_seed0,fywang/calvin-task-ABC-D-lerobot,outputs/20260603_extensions/act_abc_lang_hash_seed0,50,50,0,8,0.0001,50000,extension,hash language-conditioned ACT ablation
+act_a_proxy_taskcond_seed0,fywang/calvin-task-ABC-D-lerobot,outputs/20260604_final/act_a_proxy_taskcond_seed0,50,50,0,8,0.0001,50000,final,"proxy source A episode-order third, task-conditioned ACT"
+act_b_proxy_taskcond_seed0,fywang/calvin-task-ABC-D-lerobot,outputs/20260604_final/act_b_proxy_taskcond_seed0,50,50,0,8,0.0001,50000,final,"proxy source B episode-order third, task-conditioned ACT"
+act_c_proxy_taskcond_seed0,fywang/calvin-task-ABC-D-lerobot,outputs/20260604_final/act_c_proxy_taskcond_seed0,50,50,0,8,0.0001,50000,final,"proxy source C episode-order third, task-conditioned ACT"

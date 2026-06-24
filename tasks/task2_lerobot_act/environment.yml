@@ -1,0 +1,29 @@
+name: hw3_task2_lerobot
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - pyyaml
+  - tqdm
+  - scikit-learn
+  - pytorch
+  - torchvision
+  - pytorch-cuda=12.1
+  - pip:
+      - "huggingface_hub[hf_xet]"
+      - datasets
+      - safetensors
+      - wandb
+      - swanlab
+      - opencv-python
+      - pybullet
+      - pytest
+      - "lerobot==0.5.1"
