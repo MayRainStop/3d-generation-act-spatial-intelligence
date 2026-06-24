@@ -1,0 +1,17 @@
+{
+  "object_name": "image3d_single_photo",
+  "threestudio_root": "external/threestudio",
+  "train_script": "outputs/object_c_zero123/run_object_c_zero123.ps1",
+  "export_script": "outputs/object_c_zero123/export_object_c_mesh.ps1",
+  "train_config": "external/threestudio/configs/stable-zero123.yaml",
+  "workspace": "outputs/object_c_zero123",
+  "gpu": "0",
+  "input_image": "data/object_c_image3d/inputs/object_c_input.png",
+  "negative_prompt": "blurry, low quality, deformed, duplicate, floating parts, broken geometry, cropped object, cluttered background",
+  "train_command": "python external/threestudio/launch.py --config external/threestudio/configs/stable-zero123.yaml --train --gpu 0 name=stable-zero123 exp_root_dir=outputs/object_c_zero123 tag=image3d_single_photo data.image_path=data/object_c_image3d/inputs/object_c_input.png system.prompt_processor.prompt=image3d_single_photo system.prompt_processor.negative_prompt=\"blurry, low quality, deformed, duplicate, floating parts, broken geometry, cropped object, cluttered background\"",
+  "notes": [
+    "Run the training script first.",
+    "After training, find parsed.yaml and ckpts/last.ckpt under the generated trial directory.",
+    "Edit export_object_c_mesh.ps1 with those two real paths, then run it to export an OBJ mesh."
+  ]
+}

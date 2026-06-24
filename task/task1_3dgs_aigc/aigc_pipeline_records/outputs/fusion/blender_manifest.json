@@ -1,0 +1,35 @@
+{
+  "asset_mesh_path": "outputs/object_b_text3d/threestudio/mesh.obj",
+  "blend_path": "outputs/fusion/task1_scene.blend",
+  "render_output_dir": "outputs/fusion/renders",
+  "transform": {
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation_euler_deg": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "camera": {
+    "location": [
+      4.0,
+      -4.0,
+      2.5
+    ],
+    "rotation_euler_deg": [
+      65.0,
+      0.0,
+      45.0
+    ],
+    "lens_mm": 35.0
+  }
+}

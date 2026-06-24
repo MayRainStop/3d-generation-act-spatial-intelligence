@@ -1,0 +1,17 @@
+{
+  "object_name": "text3d_banana",
+  "threestudio_root": "external/threestudio",
+  "train_script": "outputs/object_b_text3d/run_object_b_threestudio.ps1",
+  "export_script": "outputs/object_b_text3d/export_object_b_mesh.ps1",
+  "train_config": "external/threestudio/configs/dreamfusion-sd.yaml",
+  "workspace": "outputs/object_b_text3d",
+  "gpu": "0",
+  "prompt": "a single ripe Cavendish banana, full body, centered in the frame, isolated on a plain light background, smooth natural yellow peel with a few small brown freckles, gentle elegant curve, realistic fruit proportions, detailed stem and tip, soft diffused studio lighting, subtle shadow, photorealistic, highly detailed surface texture, sharp focus, clean 3D product render, complete object, consistent shape from all views",
+  "negative_prompt": "blurry, low quality, low resolution, deformed, broken shape, duplicated object, multiple bananas, fruit bunch, plate, basket, hand, table, background clutter, floating fragments, cropped object, cut off, extra parts, unrealistic texture, oversaturated, noisy, distorted geometry",
+  "train_command": "python external/threestudio/launch.py --config external/threestudio/configs/dreamfusion-sd.yaml --train --gpu 0 name=dreamfusion-sd exp_root_dir=outputs/object_b_text3d tag=text3d_banana system.prompt_processor.prompt=\"a single ripe Cavendish banana, full body, centered in the frame, isolated on a plain light background, smooth natural yellow peel with a few small brown freckles, gentle elegant curve, realistic fruit proportions, detailed stem and tip, soft diffused studio lighting, subtle shadow, photorealistic, highly detailed surface texture, sharp focus, clean 3D product render, complete object, consistent shape from all views\" system.prompt_processor.negative_prompt=\"blurry, low quality, low resolution, deformed, broken shape, duplicated object, multiple bananas, fruit bunch, plate, basket, hand, table, background clutter, floating fragments, cropped object, cut off, extra parts, unrealistic texture, oversaturated, noisy, distorted geometry\"",
+  "notes": [
+    "Run the training script first.",
+    "After training, find parsed.yaml and ckpts/last.ckpt under the generated trial directory.",
+    "Edit export_object_b_mesh.ps1 with those two real paths, then run it to export an OBJ mesh."
+  ]
+}
